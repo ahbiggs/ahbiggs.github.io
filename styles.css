@@ -7,6 +7,12 @@ footer {
     color: white
 }
 .photo {
-    grid-column: 3/4
-    grid-row: 1/4;
+    width: 150px;
+  position: relative;
+  background-color: white;
+  top: 10px;
+  left: 10px; 
+  border: 2px black solid; 
+  border-radius: 3px;
+  box-shadow: 4px 4px 4px black;
 }
