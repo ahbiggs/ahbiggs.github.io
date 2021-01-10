@@ -11,7 +11,7 @@ footer {
   position: relative;
   background-color: white;
   top: 10px;
-  left: 10px; 
+  right: 10px; 
   border: 2px purple; 
   border-radius: 3px;
   box-shadow: 4px 4px 4px white;
