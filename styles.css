@@ -6,3 +6,7 @@ footer {
     background-color: plum;
     color: white
 }
+.photo {
+    grid-column: 3/4
+    grid-row: 1/4;
+}
