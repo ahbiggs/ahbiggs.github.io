@@ -8,13 +8,13 @@ footer {
     color: white
 }
 .photo {
-    grid-column: 3 / 4;
-    grid-row: 1 / 3;
+    position: relative;
+    right: 0px;
+  top: 0px;;
     margin-right: 0px;
     padding-top: 25px;
     margin-left: auto;
     padding-right: 25px;
-    filter: drop-shadow(0 6mm 4mm rgb(1, 63, 82));
     border-radius: 10px;
 
 }
