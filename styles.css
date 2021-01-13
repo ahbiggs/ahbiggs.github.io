@@ -8,13 +8,13 @@ footer {
     color: white
 }
 .photo {
-    position: relative;
-    right: 0px;
-  top: 0px;;
-    margin-right: 0px;
-    padding-top: 25px;
-    margin-left: auto;
-    padding-right: 25px;
-    border-radius: 10px;
+    width: 150px;
+  position: relative;
+  background-color: white;
+  top: 0px;
+  right: 0px; 
+  border: 2px black solid; 
+  border-radius: 3px;
+  box-shadow: 4px 4px 4px black;
 
 }
