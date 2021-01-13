@@ -1,6 +1,7 @@
 header {
     background-color: plum;
     color: white
+    (min-width: 32.5em)
 }
 footer {
     background-color: plum;
