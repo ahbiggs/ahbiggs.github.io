@@ -9,17 +9,13 @@ footer {
 }
 .photo {
     position: relative;
-    top: 10px;
-  right: 10px; 
     width: 150px;
-  position: relative;
   background-color: white;
   top: 10px;
   right: 10px; 
   border: 2px purple; 
   border-radius: 3px;
   box-shadow: 4px 4px 4px white;
-  grid-row-start: 1;
-  grid-column-end: 3;
+
 
 }
