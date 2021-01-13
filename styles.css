@@ -15,4 +15,7 @@ footer {
   border: 2px purple; 
   border-radius: 3px;
   box-shadow: 4px 4px 4px white;
+  grid-row-start: 1;
+  grid-column-end: 3;
+
 }
