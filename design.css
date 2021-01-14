@@ -27,9 +27,11 @@ main section:nth-child(2) {
 	display: none;
 	margin: 0.5rem;
 }
-
-.colimage {
+.screenshot, .apple, .youtube
+ {
 	box-shadow: 0 0 30px #333;
+	width: 150px;
+
 }
 
 /* Tablet Views ******************************/
@@ -54,6 +56,11 @@ main section:nth-child(2) {
 		height: auto;
 		border: 1px solid #bbb;
 	}
+	.screenshot, .apple, .youtube {
+	box-shadow: 0 0 30px #333;
+	width: 150px;
+
+}
 }
 
 /* Desktop Views ****************************/
@@ -65,8 +72,13 @@ main section:nth-child(2) {
 	main section:nth-child(3) {
 		grid-column: span 1;
 	}
+
+	.screenshot, .apple, .youtube { 
+
+	box-shadow: 0 0 30px #333;
+	width: 150px;
+
+}
 }
 
-.h1 {
-	background-color: violet;
-}
+
