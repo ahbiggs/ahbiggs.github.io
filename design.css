@@ -2,12 +2,13 @@ body {
 	font-size: 16px;
 	font-family: "Sansita", Ubuntu, sans-serif;
 }
+
 /* phone or baseline views **************************/
 main {
 	max-width: 767px;
 	margin: 0 auto;
 	display: grid;
-	grid-template-columns: 1fr;
+	grid-template-columns: 1fr 1fr 1fr;
 	font-size: 0.8rem;
 }
 
