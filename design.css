@@ -2,7 +2,6 @@ body {
 	font-size: 16px;
 	font-family: "Sansita", Ubuntu, sans-serif;
 }
-
 /* phone or baseline views **************************/
 main {
 	max-width: 767px;
@@ -13,12 +12,12 @@ main {
 }
 
 main section h2 {
-	color: #033458;
+	color: #536878;
 }
 
 main section {
 	margin: 0.5rem;
-	border: 1px lightblue;
+	border: 1px solid #bbb;
 	padding: 0 1rem;
 	background-color: #eee;
 }
@@ -28,7 +27,7 @@ main section:nth-child(2) {
 	margin: 0.5rem;
 }
 
-.youtube, .apple, .screenshot {
+.colimage {
 	box-shadow: 0 0 30px #333;
 }
 
@@ -52,7 +51,7 @@ main section:nth-child(2) {
 	main section picture img {
 		width: 100%;
 		height: auto;
-		border: 1px lightblue;
+		border: 1px solid #bbb;
 	}
 }
 
