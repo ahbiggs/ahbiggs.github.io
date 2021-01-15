@@ -32,6 +32,8 @@ main section {
 	border: 1px lightblue;
 	padding: 0 1rem;
 	background-color: #eee;
+	border-radius: 10px;
+
 }
 
 main section:nth-child(2) {
