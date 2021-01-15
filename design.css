@@ -5,6 +5,7 @@ body {
 }
 
 header{
+	font-size: 20px;
 	background-color: navy;
 	color: white;
 	margin: auto;
@@ -12,6 +13,10 @@ header{
 	border: 3px white;
 	padding: 10px;
 	
+}
+
+.h2{
+	background-color: navy;
 }
 
 
