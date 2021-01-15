@@ -16,28 +16,28 @@ header{
 main section picture img {
 
 	max-width: 100%;
-	
+
 	}
 
 /* phone or baseline views **************************/
 main {	
 	max-width: 767px;
-	-margin: -auto;
+	margin: 0 auto;
 	display: grid;
 	grid-template-columns: 1fr;
-	font-size: 10px;
-	text-align: center;
-	margin: auto;
+	-font-size: 10px;
+	-text-align: center;
+	-margin: auto;
 }
 
 main section h2 {
-	font-size: 17px;
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-	background-color: navy;
+	-font-size: 17px;
+	-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	-background-color: navy;
 	color: white;
-	text-align: center;
-	margin: auto;
-	border-radius: 10px;
+	-text-align: center;
+	-margin: auto;
+	-border-radius: 10px;
 }
 
 main section {
@@ -49,9 +49,9 @@ main section {
 
 }
 
--main -section:-nth-child(2) {
-	-display: -block;
-	-margin: -0.5rem;
+main section:nth-child(2) {
+	display: block;
+	margin: 0.5rem;
 }
 
 .colimage, .madewell, .youtube {
@@ -64,12 +64,12 @@ main section {
 		grid-template-columns: 1fr 1fr;
 	}
 
-	-main -section-:-nth-child(2) {
-	-	-display: -block;
+	main section:nth-child(2) {
+	display: block;
 	}
 
-	-main -section:-nth-child(3) {
-		-grid-column: span 2;
+	main section:nth-child(3) {
+		grid-column: span 2;
 	}
 
 	main section picture {
@@ -89,8 +89,8 @@ main section {
 		grid-template-columns: 1fr 1fr 1fr;
 	}
 
-	-main -section:-nth-child(3) {
-		-grid-column: span 1;
+	main section:nth-child(3) {
+		grid-column: span 1;
 	}
 }
 
