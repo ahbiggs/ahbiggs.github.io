@@ -13,6 +13,11 @@ header{
 	
 }
 
+main section picture img {
+
+	max-width: 100%;
+	}
+
 /* phone or baseline views **************************/
 main {	
 	max-width: 767px;
