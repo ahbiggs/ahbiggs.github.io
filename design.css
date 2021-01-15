@@ -1,7 +1,8 @@
 body {
+	column-count: 3;
 	font-size: 16px;
 	font-family: "Sansita", Ubuntu, sans-serif;
-	column-count: 3;
+	
 }
 /* phone or baseline views **************************/
 main {	
