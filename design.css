@@ -41,9 +41,9 @@ main section {
 
 }
 
-main section:nth-child(2) {
-	display: block;
-	-margin: 0.5rem;
+-main -section:-nth-child(2) {
+	-display: -block;
+	-margin: -0.5rem;
 }
 
 .colimage, .madewell, .youtube {
@@ -56,12 +56,12 @@ main section:nth-child(2) {
 		grid-template-columns: 1fr 1fr;
 	}
 
-	main section:nth-child(2) {
-		display: block;
+	-main -section-:-nth-child(2) {
+	-	-display: -block;
 	}
 
-	main section:nth-child(3) {
-		grid-column: span 2;
+	-main -section:-nth-child(3) {
+		-grid-column: span 2;
 	}
 
 	main section picture {
@@ -81,8 +81,8 @@ main section:nth-child(2) {
 		grid-template-columns: 1fr 1fr 1fr;
 	}
 
-	main section:nth-child(3) {
-		grid-column: span 1;
+	-main -section:-nth-child(3) {
+		-grid-column: span 1;
 	}
 }
 
