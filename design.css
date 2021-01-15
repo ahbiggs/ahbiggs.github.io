@@ -6,6 +6,7 @@ body {
 main {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
+	
 }
 /* phone or baseline views **************************/
 main {	
