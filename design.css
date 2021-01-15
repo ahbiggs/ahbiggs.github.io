@@ -4,6 +4,7 @@ body {
 }
 /* phone or baseline views **************************/
 main {
+	column-count: 3;
 	max-width: 767px;
 	margin: 0 auto;
 	display: grid;
