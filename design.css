@@ -1,6 +1,6 @@
 body {
 	font-size: 16px;
-	font-family: "Sansita", Ubuntu, sans-serif;
+	font-family: 'Times New Roman', Times, serif
 	
 }
 
@@ -23,6 +23,8 @@ main {
 }
 
 main section h2 {
+	font-size: 17px;
+	font-family:'Times New Roman', Times, serif;
 	background-color: navy;
 	color: white;
 	text-align: center;
