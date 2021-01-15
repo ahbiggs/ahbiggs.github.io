@@ -13,15 +13,6 @@ header{
 	
 }
 
-
-
-.h2{
-	background-color: navy;
-}
-
-
-
-
 /* phone or baseline views **************************/
 main {	
 	max-width: 767px;
@@ -32,7 +23,8 @@ main {
 }
 
 main section h2 {
-	color: lightblue;
+	background-color: navy;
+	color: white;
 }
 
 main section {
