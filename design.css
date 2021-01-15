@@ -4,6 +4,12 @@ body {
 	
 }
 
+header{
+	background-color: navy;
+    text-align: center;
+}
+
+
 
 /* phone or baseline views **************************/
 main {	
