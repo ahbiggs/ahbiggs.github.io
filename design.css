@@ -71,7 +71,7 @@ main section:nth-child(2) {
 @media only screen and (min-width: 60em) {
 	main {
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-columns: 2fr 2fr 2fr;
 	}
 
 	main section:nth-child(3) {
