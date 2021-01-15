@@ -3,6 +3,10 @@ body {
 	font-family: "Sansita", Ubuntu, sans-serif;
 	
 }
+main {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
 /* phone or baseline views **************************/
 main {	
 	max-width: 767px;
