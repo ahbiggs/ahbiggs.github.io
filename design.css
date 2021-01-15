@@ -1,10 +1,10 @@
 body {
 	font-size: 16px;
 	font-family: "Sansita", Ubuntu, sans-serif;
+	column-count: 3;
 }
 /* phone or baseline views **************************/
-main {
-	column-count: 3;
+main {	
 	max-width: 767px;
 	margin: 0 auto;
 	display: grid;
