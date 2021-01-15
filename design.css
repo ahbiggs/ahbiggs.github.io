@@ -16,7 +16,7 @@ header{
 /* phone or baseline views **************************/
 main {	
 	max-width: 767px;
-	-margin: auto;
+	margin: auto;
 	display: grid;
 	grid-template-columns: 1fr;
 	font-size: 10px;
