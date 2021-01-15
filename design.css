@@ -5,19 +5,15 @@ body {
 }
 
 header{
+	text-align: center;
+	margin: auto;
 	font-size: 20px;
 	background-color: navy;
 	color: white;
-	margin: auto;
-	width: 50%;
-	border: 3px white;
-	padding: 10px;
 	
 }
 
-.h1, .h3{
-	text-align: center;
-}
+
 
 .h2{
 	background-color: navy;
