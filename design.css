@@ -25,9 +25,9 @@ main {
 	margin: 0 auto;
 	display: grid;
 	grid-template-columns: 1fr;
-	-font-size: 10px;
-	-text-align: center;
-	-margin: auto;
+	font-size: 10px;
+	text-align: center;
+	margin: auto;
 }
 
 main section h2 {
