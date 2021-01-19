@@ -1,11 +1,14 @@
 header {
     background-color: plum;
     color: white
-
+    text-align: center;
+	margin: auto;
 }
 footer {
     background-color: plum;
     color: white
+    text-align: center;
+	margin: auto;
 }
 .photo {
 
