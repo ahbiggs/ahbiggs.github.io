@@ -33,9 +33,14 @@
         <a href="https://www.byui.edu/online" Class="link">BYUI Online Learning</a>
       </p>
     </footer>
-    <script>
-    alert(document.lastModified);
-  </script>
+    <p id="last"></p>
+
+<script>
+{
+  var x = document.lastModified;
+  document.getElementById("last").innerHTML = x;
+}
+</script>
   </body>
 </html>
   
