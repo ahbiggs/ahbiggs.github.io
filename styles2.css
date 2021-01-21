@@ -23,3 +23,10 @@ footer {
   border-radius: 3px;
   box-shadow: 4px 4px 4px white;
 }
+
+nav {
+    background-color: plum;
+    padding: 1em;
+    margin-top: -158px; 
+    
+     }  
