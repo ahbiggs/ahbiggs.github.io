@@ -1,5 +1,5 @@
 nav {
-    background-color: #7092A8;
+    background-color: white;
     padding: 1em;
     margin-top: -158px; 
 
@@ -23,7 +23,7 @@ nav li {
 
 
 nav a:hover {
-  background-color: white;
+  background-color: #6eeb83;
  color: black;
  border-radius: 5px;
  box-shadow: 5px 5px 5px black;
