@@ -55,3 +55,13 @@ footer {
   .banner {
     width: 100%;
   }d
+
+  h2 {
+    color: white;
+    background-color: #ff5714;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Big Shoulders Display', 'Oswald', sans-serif;
+    font-size: 2.5em;
+    line-height: 1.1em;
+      } 
