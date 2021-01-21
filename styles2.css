@@ -2,7 +2,7 @@ nav {
     background-color: #7092A8;
     padding: 1em;
     margin-top: -158px; 
-    
+
      }  
 
 nav a   { 
@@ -52,3 +52,13 @@ footer {
   box-shadow: 4px 4px 4px white;
 }
 
+#logo {
+    width: 150px;
+    position: relative;
+    background-color: white;
+    top: 10px;
+    left: 10px; 
+    border: 2px black solid; 
+    border-radius: 3px;
+    box-shadow: 4px 4px 4px black;
+  }
