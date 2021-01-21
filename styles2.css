@@ -54,9 +54,9 @@ footer {
 
   .banner {
     width: 100%;
-  }d
+  }
 
-  h1 {
+  h1, h2 {
     color: white;
     background-color: #ff5714;
     text-align: center;
