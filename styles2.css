@@ -171,3 +171,33 @@ div.polaroid {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
   }
+
+  h5 {
+    color: white;
+    background-color: #6eeb83;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    line-height: 1.1em;
+      }
+
+  h6 {
+    color: white;
+    background-color: #e4ff1a;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 2.5em;
+    line-height: 1.1em;
+      }
+
+  h7 {
+    color: black;
+    background-color: #ffb800;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Antic Slab', serif;
+    font-size: 2.5em;
+    line-height: 1.1em;
+      }
