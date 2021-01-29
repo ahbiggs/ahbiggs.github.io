@@ -19,8 +19,8 @@ footer {
 }
 
 header > img {
-    width: 30px;
-    height: 30px;
+    width: 200px;
+    height: auto;
     vertical-align: left;
 }
 
