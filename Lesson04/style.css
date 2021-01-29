@@ -39,9 +39,9 @@ h2 {
 }
 
 nav {
-	background-color: #36454f;
+	background-color: #6eeb83;
 	text-align: center;
-	box-shadow: 0 2px 15px gray;
+	box-shadow: 0 2px 15px #e4ff1a;
 }
 nav ul {
 	list-style-type: none;
