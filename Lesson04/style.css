@@ -19,9 +19,14 @@ footer {
 }
 
 header > img {
-    width: 200px;
-    height: auto;
-    vertical-align: left;
+    width: 150px;
+    position: relative;
+    background-color: white;
+    top: 10px;
+    left: 10px; 
+    border: 2px black solid; 
+    border-radius: 3px;
+    box-shadow: 4px 4px 4px black;
 }
 
 header,
