@@ -51,7 +51,7 @@ header {
 
   .heroImage {
 	background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.9)), url("https://images.unsplash.com/photo-1514477917009-389c76a86b68?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=661&q=80");
-	height: 50%%;
+	height: 50%;
 	background-position: center;
 	background-repeat: no-repeat;
 	position: relative;
@@ -138,7 +138,7 @@ footer {
 	/* Grid *********************/
 			nav ul { 
 				display: grid;
-				grid-template-columns: repeat(5, 1fr);*/
+				grid-template-columns: repeat(5, 1fr);
 				grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
 			}
 
@@ -157,7 +157,7 @@ footer {
 	
 	nav a {
 		font-size: 1rem;
-	}
+    }
 	/*main {
 		grid-template-columns: 1fr 1fr;
 	}
@@ -178,11 +178,11 @@ footer {
 @media only screen and (min-width: 60em) {
 	nav a {
 		font-size: 1.1rem;
-	}
+    }
+}
 	/*main {
 		grid-template-columns: 1fr 1fr 1fr;
 	}
 	article:nth-child(3) {
 		grid-column: span 1;
-	}
-}
+    }
