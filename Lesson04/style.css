@@ -58,8 +58,10 @@ header {
 }
 
 .heroContents {
-	padding-top: 25px;
-	text-align: center;
+    padding-top: 10px;
+    border: 10px;
+    margin: 5px;
+	text-align: left;
 	color: white;
 }
   
