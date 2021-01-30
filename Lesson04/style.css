@@ -42,7 +42,7 @@ header {
     background-color: #ff5714;
     top: 10px;
     left: 10px; 
-    border: 2px black solid; 
+    border: 2px white; 
     border-radius: 3px;
     box-shadow: 4px 4px 4px black;
   }
@@ -57,13 +57,13 @@ header {
     display: block;
 } */ 
 
-p {
+/* p {
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-}
+} */ 
 
 #content {
 	max-width: 960px;
