@@ -18,7 +18,7 @@ footer {
     border: 0em;
 }
 
-header > img {
+#logo {
     width: 150px;
     position: relative;
     background-color: white;
@@ -27,7 +27,7 @@ header > img {
     border: 2px black solid; 
     border-radius: 3px;
     box-shadow: 4px 4px 4px black;
-}
+  }
 
 header,
 nav,
