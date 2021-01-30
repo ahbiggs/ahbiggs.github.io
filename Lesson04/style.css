@@ -48,9 +48,9 @@ header {
   }
 
   .hero, .five, .weather, .article {
-	background-color: lightgrey;
-	width: 300px;
-	border: 15px solid green;
+	background-color: white;
+	width: auto;
+	border: 5px #6eeb83;
 	padding: 50px;
 	margin: 20px;
   }
