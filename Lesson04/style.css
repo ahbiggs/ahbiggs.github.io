@@ -68,21 +68,6 @@ header {
     color: white;
   }
   
-  .hero-text button {
-    border: none;
-    outline: 0;
-    display: inline-block;
-    padding: 10px 25px;
-    color: black;
-    background-color: #ddd;
-    text-align: center;
-    cursor: pointer;
-  }
-  
-  .hero-text button:hover {
-    background-color: #555;
-    color: white;
-  }
 
 header,
 nav,
@@ -94,7 +79,7 @@ footer {
 h1 {
 	font-size: 2rem;
 }
-h2 {
+/*h2 {
 	color: #536878;
 }
 
@@ -154,10 +139,10 @@ footer {
 	*/
 
 	/* Grid *********************/
-			nav ul { 
+			/*nav ul { 
 				display: grid;
 				/*grid-template-columns: repeat(5, 1fr);*/
-				grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+				/*grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
 			}
 
 	/* Inline-Block             */
