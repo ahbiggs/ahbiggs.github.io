@@ -24,6 +24,7 @@ header{
     padding: 10px;
     margin: 0em;
     border: 0em;
+    text align: center;
 }
 .headertext {
     display: inline-block;
