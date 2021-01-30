@@ -28,7 +28,7 @@ header{
 }
 .headertext {
     display: inline-block;
-    vertical-align: middle;
+    /*vertical-align: middle;*/ 
     padding: 0em;
 }
 .subheading {
