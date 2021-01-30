@@ -48,10 +48,12 @@ header {
   }
 
   div {
-    border: 1px #ff5714;
-    padding: 25px;
-    margin-bottom: 15px;
-}
+	background-color: lightgrey;
+	width: 300px;
+	border: 15px solid green;
+	padding: 50px;
+	margin: 20px;
+  }
 
 /*div {
     display: block;
