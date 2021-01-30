@@ -18,6 +18,18 @@ footer {
     border: 0em;
 }
 
+.headertext {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0em;
+}
+.subheading {
+    font-size: 1.1em;
+    color: yellowgreen;
+    padding-left: 15em;
+    padding-right: auto;
+}
+
 #logo {
     width: 150px;
     position: relative;
