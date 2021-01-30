@@ -6,7 +6,6 @@ body {
 }
 
 /* phone or baseline views **************************/
-header,
 footer {
     background-color: white;
     display: flex;
@@ -18,6 +17,14 @@ footer {
     border: 0em;
 }
 
+header{
+    background-color: white;
+    display: flex;
+    flex-flow: column;
+    padding: 10px;
+    margin: 0em;
+    border: 0em;
+}
 .headertext {
     display: inline-block;
     vertical-align: middle;
