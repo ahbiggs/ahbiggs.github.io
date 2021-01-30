@@ -47,7 +47,7 @@ header {
     box-shadow: 4px 4px 4px black;
   }
 
-  .hero {
+  .hero, .five, .weather, .article {
 	background-color: lightgrey;
 	width: 300px;
 	border: 15px solid green;
