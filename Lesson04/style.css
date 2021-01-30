@@ -81,7 +81,7 @@ h1 {
 }
 /*h2 {
 	color: #536878;
-}
+} */
 
 nav {
 	background-color: #6eeb83;
@@ -106,7 +106,7 @@ nav a:hover {
 	background-color: #bbb;
 	color: #36454f;
 }
-.active {
+/* .active {
 	color: yellow;
 }
 main {
@@ -123,7 +123,7 @@ main article {
 main picture {
 	display: none;
 	margin: 0.5rem;
-}
+}*/ 
 
 footer {
 	flex: 0 1 100%;
@@ -139,16 +139,16 @@ footer {
 	*/
 
 	/* Grid *********************/
-			/*nav ul { 
+			nav ul { 
 				display: grid;
-				/*grid-template-columns: repeat(5, 1fr);*/
-				/*grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+				grid-template-columns: repeat(5, 1fr);*/
+				grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
 			}
 
 	/* Inline-Block             */
-	/*
+	
 			nav li {display: inline-block;}
-	*/
+	
 
 	/* Float                    */
 	/*
