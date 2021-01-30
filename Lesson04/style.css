@@ -7,7 +7,7 @@ body {
 
 /* phone or baseline views **************************/
 footer {
-    background-color: #ff5714;
+    background-color: white;
     display: flex;
     flex-flow: column;
     align-items: center;
@@ -18,7 +18,7 @@ footer {
 }
 
 header {
-    background-color: #ff5714;
+    background-color: white;
     display: flex;
     flex-flow: column;
     padding: 10px;
@@ -29,7 +29,7 @@ header {
 .headertext {
     display: inline-block; 
     padding: 0em;
-    color: white;
+    color: black;
 }
 .subheading {
     font-size: 1.1em;
@@ -41,7 +41,7 @@ header {
 #logo {
     width: 150px;
     position: relative;
-    background-color: white;
+    background-color: #ff5714;
     top: 10px;
     left: 10px; 
     border: 2px black solid; 
@@ -80,7 +80,7 @@ h2 {
 } 
 
 nav {
-	background-color: white;
+	background-color: #ff5714;
 	text-align: center;
     box-shadow: 0 2px 15px;
     color: black;
@@ -100,8 +100,8 @@ nav ul li a {
 	font-size: 0.95rem;
 }
 nav a:hover {
-	background-color: #bbb;
-	color: #36454f;
+	background-color: #ffb800;
+	color: white;
 }
 .active {
 	color: yellow;
