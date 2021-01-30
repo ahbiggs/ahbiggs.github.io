@@ -68,6 +68,12 @@ p {
     margin-inline-end: 0px;
 }
 
+.leftcol, .rightcol {
+	max-width: 48%;
+	flex: 1 0 15em;
+	padding: 10px;
+  }
+
 header,
 nav,
 main,
