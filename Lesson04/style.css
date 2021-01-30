@@ -80,9 +80,9 @@ h2 {
 } 
 
 nav {
-	background-color: #6eeb83;
+	background-color: white;
 	text-align: center;
-	box-shadow: 0 2px 15px #e4ff1a;
+	box-shadow: 0 2px 15px;
 }
 nav ul {
 	list-style-type: none;
