@@ -27,8 +27,7 @@ header {
     text-align: center;
 }
 .headertext {
-    display: inline-block;
-    /*vertical-align: middle;*/ 
+    display: inline-block; 
     padding: 0em;
     color: white;
 }
@@ -150,11 +149,11 @@ footer {
 			nav li {display: inline-block;}
 	
 
-	/* Float                    */
-	/*
+	/*Float                    */
+	
 			nav li {float:left; margin-right:15px;}
-			main {clear:both;}
-	*/
+			/* main {clear:both;}
+	
 
 /*******************************************************/
 	
