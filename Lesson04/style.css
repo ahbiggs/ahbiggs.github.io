@@ -59,6 +59,13 @@ header {
     display: block;
 } */ 
 
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 
 header,
 nav,
@@ -174,7 +181,14 @@ footer {
 	nav a {
 		font-size: 1.1rem;
     }
+
+    div {
+        border: 1px #ff5714;
+        padding: 25px;
+        margin-bottom: 15px;
+    }
 }
+
 	/*main {
 		grid-template-columns: 1fr 1fr 1fr;
 	}
@@ -182,3 +196,4 @@ footer {
 		grid-column: span 1;
     }
 }
+
