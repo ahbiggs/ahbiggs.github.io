@@ -30,10 +30,11 @@ header {
     display: inline-block;
     /*vertical-align: middle;*/ 
     padding: 0em;
+    color: white;
 }
 .subheading {
     font-size: 1.1em;
-    color: black;
+    color: white;
     padding-left: 15em;
     padding-right: auto;
 }
