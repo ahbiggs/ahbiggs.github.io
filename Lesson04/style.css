@@ -83,7 +83,8 @@ h2 {
 nav {
 	background-color: white;
 	text-align: center;
-	box-shadow: 0 2px 15px;
+    box-shadow: 0 2px 15px;
+    color: black;
 }
 nav ul {
 	list-style-type: none;
