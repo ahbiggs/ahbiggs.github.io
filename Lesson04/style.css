@@ -9,7 +9,8 @@ body {
 footer {
     background-color: #ff5714;
     display: flex;
-    flex-flow: column;
+	flex-flow: column;
+	color: white;
 } 
 
 
