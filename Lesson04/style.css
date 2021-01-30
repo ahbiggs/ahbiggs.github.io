@@ -49,21 +49,16 @@ header {
     box-shadow: 4px 4px 4px black;
   }
 
-  .heroImage {
-	background: /*linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.9)),*/ url("https://images.unsplash.com/photo-1514477917009-389c76a86b68?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=661&q=80");
-    height: 100%;
-    max-width: 100%;
-	background-position: center;
-	background-repeat: no-repeat;
-	position: relative;
+  div {
+    border: 1px #ff5714;
+    padding: 25px;
+    margin-bottom: 15px;
 }
 
-.heroContents {
-    padding-top: 10px;
-	text-align: center;
-    color: white;
-}
-  
+div {
+    display: block;
+} 
+
 header,
 nav,
 main,
