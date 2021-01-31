@@ -27,17 +27,16 @@ main {
 	display: grid;
 	grid-template-columns: 1fr;
 	font-size: 10px;
-	text-align: left;
-	margin: auto;
+	/*text-align: left;
+	margin: auto;*/
 }
 
 main section h2 {
 	font-size: 17px;
-	font-family: "Trirong", serif;
 	background-color: navy;
 	color: white;
 	text-align: center;
-	margin: auto;
+	/*margin: auto;*/
 	border-radius: 10px;
 }
 
