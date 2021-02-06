@@ -124,10 +124,3 @@ footer {
 	height: auto;
 }
 
-.heroImage {
-	background: url("/images/heroimage.jpeg");
-	height: 50%;
-	background-position: center;
-	background-repeat: no-repeat;
-	position: relative;
-}
