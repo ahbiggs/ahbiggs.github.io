@@ -124,3 +124,8 @@ footer {
 	height: auto;
 }
 
+.hero img {
+    width: 1200px;
+    height: auto;
+    margin-top: -225px;
+}
