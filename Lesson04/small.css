@@ -83,7 +83,7 @@ h2 {
 nav {
 	margin: 0 auto;
 	max-width: 760px;
-	background-color: tomato;
+	background-color: #ff5714;
 }
 .navigation {
 	list-style: none;
@@ -105,7 +105,7 @@ nav {
 }
 .navigation a:hover {
 	color: white;
-	background-color: black;
+	background-color: #1be7ff;
 }
 
 /* the onclick JS toggles the .reponsive class from display none (.navigation li) to display block because the responsive class is added to the end of the class list like this in HTML.
