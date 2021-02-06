@@ -3,7 +3,6 @@
 body {
 	font-size: 16px;
 	font-family: 'Roboto', sans-serif;
-	width: 100%;
 }
 
 /* phone or baseline views **************************/
@@ -71,7 +70,7 @@ nav,
 main,
 footer {
 	max-width: 1200px;
-	margin: 0 auto;
+	margin: 0;
 }
 h1 {
 	font-size: 2rem;
@@ -81,7 +80,7 @@ h2 {
 } 
 /* Small/Phone View ***************/
 nav {
-	margin: 0 auto;
+	margin: 0;
 	max-width: 1200px;
 	background-color: #ff5714;
 }
@@ -127,6 +126,6 @@ footer {
 
 .hero img {
     width: 1200px;
-    height: auto;
+    height: 50%;
     margin-top: -225px;
 }
