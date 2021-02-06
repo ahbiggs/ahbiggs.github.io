@@ -1,0 +1,18 @@
+nav button {
+    display: none;
+  }
+
+  nav ul {
+    justify-content: center;
+  }
+
+  nav ul.hide {
+    display: flex;
+  }
+
+  nav ul li a {
+    border: none;
+    padding: 0.8rem 1rem;
+  }
+
+}
