@@ -124,9 +124,8 @@ footer {
     width: 1200px;
 }
 
-.hero img {
-        height: 50%;
-        background-position: center;
-        background-repeat: no-repeat;
-        position: relative;
-    }
+.summary {
+    background-image: url(weather.jpg);
+    background-size: 88%;
+    background-repeat: no-repeat;
+}
