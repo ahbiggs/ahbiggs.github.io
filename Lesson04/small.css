@@ -37,14 +37,15 @@ header {
     padding-right: auto;
 }
 
-.logo {
-    float: left;
-    width: 70px;
-    margin-top: 15px;
-    margin-left: 10%;
-    margin-right: 3%;
+#logo {
+    width: 150px;
+    position: relative;
     background-color: white;
-    border-radius: 50%;
+    top: 10px;
+    left: 10px; 
+    border: 2px white; 
+    border-radius: 3px;
+    box-shadow: 4px 4px 4px black;
   }
 
   .hero, .five, .weather, .article {
