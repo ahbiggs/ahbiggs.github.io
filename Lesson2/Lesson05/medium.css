@@ -41,6 +41,6 @@
 	main picture img {
 		width: 100%;
 		height: auto;
-		border: 1px solid #bbb;
-	}
+        border: 1px solid #bbb;
+    }
 }
