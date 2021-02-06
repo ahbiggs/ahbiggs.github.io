@@ -32,9 +32,9 @@ header h5 {
     padding-bottom: 20px;
 }
 
-/*h2, h3, h5, li, p, div, footer {
+h2, h3, h5, li, p, div, footer {
     font-family: 'Gothic A1', sans-serif;
-}*/ 
+}
 
 nav button {
     float:right;

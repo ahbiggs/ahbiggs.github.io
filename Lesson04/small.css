@@ -3,6 +3,7 @@
 body {
 	font-size: 16px;
 	font-family: 'Roboto', sans-serif;
+	width: 100%;
 }
 
 /* phone or baseline views **************************/
@@ -36,23 +37,20 @@ header {
     padding-right: auto;
 }
 
-#logo {
-    width: 150px;
-    position: relative;
+.logo {
+    float: left;
+    width: 70px;
+    margin-top: 15px;
+    margin-left: 10%;
+    margin-right: 3%;
     background-color: white;
-    top: 10px;
-    left: 10px; 
-    border: 2px white; 
-    border-radius: 3px;
-    box-shadow: 4px 4px 4px black;
+    border-radius: 50%;
   }
 
   .hero, .five, .weather, .article {
-	background-color: white;
-	width: auto;
-	border: 5px #6eeb83;
-	padding: 50px;
-	margin: 20px;
+	border: 1px solid #ff5714;
+    padding: 25px;
+    margin-bottom: 15px;
   }
 
 /*div {
@@ -66,19 +64,6 @@ header {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 } */ 
-
-#content {
-	max-width: 1300px;
-	margin: 0;
-   }
-
-.leftcol, .rightcol {
-	max-width: 48%;
-	flex: 1 0 15em;
-	padding: 10px;
-  }
-
-
 
 header,
 nav,
