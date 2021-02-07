@@ -164,6 +164,7 @@ tbody {
     font-size: 2vw;
     font-family: 'Arial';
 }
+
 tbody {
     display: table-row-group;
     vertical-align: middle;
