@@ -201,11 +201,3 @@ ul.five {
 div {
     display: block;
 }
-
-.article img {
-    width: 250px;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
