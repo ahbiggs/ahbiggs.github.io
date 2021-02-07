@@ -49,9 +49,10 @@ header {
   }
 
  .article {
-	border: 1px solid #202c39;
+	background-color: #202c39;
     padding: 25px;
     margin-bottom: 15px;
+    color: white
   }
 
 
@@ -72,6 +73,20 @@ h2 {
 h3 {
     color: white;
 }
+h5 {
+    color:white;
+    font-size: large;
+}
+
+h6 {
+    color: white; 
+    font-size: medium;
+}
+.p {
+color: white;
+font-size: large; 
+}
+
 /* Small/Phone View ***************/
 nav {
 	margin: 0;
