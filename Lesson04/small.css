@@ -192,3 +192,7 @@ ul.five {
     background-color: white;
 
 }
+
+div {
+    display: block;
+}
