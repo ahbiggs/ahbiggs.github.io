@@ -201,3 +201,7 @@ ul.five {
 div {
     display: block;
 }
+
+#umbrella {
+    float: right;
+}
