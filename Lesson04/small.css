@@ -47,7 +47,7 @@ header {
     box-shadow: 4px 4px 4px black;
   }
 
-  .five, .weather, .article {
+  .five, .article {
 	border: 1px solid #ff5714;
     padding: 25px;
     margin-bottom: 15px;
