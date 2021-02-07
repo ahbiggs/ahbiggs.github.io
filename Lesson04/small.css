@@ -78,6 +78,10 @@ h1 {
 h2 {
 	color: #ff5714;
 } 
+
+h3 {
+    color: white;
+}
 /* Small/Phone View ***************/
 nav {
 	margin: 0;
@@ -135,8 +139,8 @@ table {
     box-sizing: border-box;
     text-indent: initial;
     border-spacing: 2px;
-    border-color: grey;
-    background-color: #ff5714;
+    border-color: white;
+    background-color: transparent #ff5714;
 }
 
 tbody {
@@ -147,7 +151,7 @@ tbody {
 
 .r1 {
     text-align: right;
-    color: black (250, 250, 7);
+    color: white (250, 250, 7);
     opacity: 5;
     font-size: 2vw;
     font-family: 'Arial';
@@ -155,7 +159,7 @@ tbody {
 
 .r2 {
     text-align: left;
-    color: black (255, 255, 255);
+    color:white (255, 255, 255);
     opacity: 5;
     font-size: 2vw;
     font-family: 'Arial';
