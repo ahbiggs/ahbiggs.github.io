@@ -11,7 +11,8 @@ footer {
     background-color: #202c39;
     display: flex;
 	flex-flow: column;
-	color: white;
+    color: white;
+    text-align: center;
 } 
 
 
