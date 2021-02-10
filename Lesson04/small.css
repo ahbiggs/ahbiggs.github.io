@@ -177,7 +177,7 @@ tbody {
     border-color: inherit;
 }
 
-.forecast li img {
+/*.forecast li img {
     width: 50px;
     height: auto;
 }
@@ -212,4 +212,8 @@ table {
     height: 70px;
   }
 
-  
+  #icon {
+
+    width: 50px;
+    height: auto; 
+  }
