@@ -139,6 +139,21 @@ footer {
     background-repeat: no-repeat;
 }
 
+.r1 {
+    text-align: right;
+    color: #202c39;
+    opacity: 5;
+    font-size: 2vw;
+    font-family: 'Arial';
+}
+
+.r2 {
+    text-align: left;
+    color: #283845;
+    opacity: 5;
+    font-size: 2vw;
+    font-family: 'Arial';
+}
 
 /*.forecast li img {
     width: 50px;
@@ -166,7 +181,7 @@ footer {
     float: right;
 }
 
-table {
+.forecast {
     width: 100%;
   }
   
