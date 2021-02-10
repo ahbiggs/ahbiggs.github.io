@@ -139,6 +139,15 @@ footer {
     background-repeat: no-repeat;
 }
 
+.summary {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
 .r1 {
     text-align: right;
     color: #202c39;
