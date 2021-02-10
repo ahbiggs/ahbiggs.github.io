@@ -154,7 +154,6 @@ summary.table {
     box-sizing: border-box;
     text-indent: initial;
     border-spacing: 2px;
-    border-color: grey;
 
 }
 
@@ -199,6 +198,7 @@ summary.table {
 }
 
 .forecast {
+    border-collapse: collapse;
     width: 100%;
   }
   
