@@ -135,17 +135,27 @@ footer {
 
 .summary {
     background-image: url("/images/heroimage.jpeg");
-    background-size: 100%;
+    background-size: 88%;
     background-repeat: no-repeat;
 }
 
-.summary {
+/* .summary {
     display: table;
     border-collapse: separate;
     box-sizing: border-box;
     text-indent: initial;
     border-spacing: 2px;
     border-color: grey;
+}*/ 
+
+summary.table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+
 }
 
 .r1 {
