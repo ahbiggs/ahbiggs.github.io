@@ -135,47 +135,10 @@ footer {
 
 .summary {
     background-image: url("/images/heroimage.jpeg");
-    background-size: 88%;
+    background-size: 100%;
     background-repeat: no-repeat;
 }
 
-table {
-    display: table;
-    border-collapse: separate;
-    box-sizing: border-box;
-    text-indent: initial;
-    border-spacing: 2px;
-    border-color: white;
-    background-color: #d6ebe8ff;
-}
-
-tbody {
-    display: table-row-group;
-    vertical-align: middle;
-    border-color: inherit;
-}
-
-.r1 {
-    text-align: right;
-    color: white (250, 250, 7);
-    opacity: 5;
-    font-size: 2vw;
-    font-family: 'Arial';
-}
-
-.r2 {
-    text-align: left;
-    color:white (255, 255, 255);
-    opacity: 5;
-    font-size: 2vw;
-    font-family: 'Arial';
-}
-
-tbody {
-    display: table-row-group;
-    vertical-align: middle;
-    border-color: inherit;
-}
 
 /*.forecast li img {
     width: 50px;
