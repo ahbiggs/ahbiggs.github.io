@@ -203,3 +203,13 @@ tbody {
 #umbrella {
     float: right;
 }
+
+table {
+    width: 100%;
+  }
+  
+  th {
+    height: 70px;
+  }
+
+  
