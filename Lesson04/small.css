@@ -223,3 +223,11 @@ summary.table {
     padding: 15px;
     float: right;
   }
+
+  .contact{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px; 
+  }
