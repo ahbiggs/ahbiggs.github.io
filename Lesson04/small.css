@@ -91,7 +91,7 @@ font-size: large;
 nav {
 	margin: auto;
     background-color: #202c39;
-    min-width: 1200px;
+    max-width: 1200px;
 }
 .navigation {
 	list-style: none;
