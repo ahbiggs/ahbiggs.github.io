@@ -225,8 +225,9 @@ summary.table {
     float: right;
   }
 
-  .contact{
-    margin: auto;
+  .contact {
+    text-align: left;
     background-color: #f29559;
-    max-width: 1200px;
-  }
+    padding: 70px;
+    font-size: 12px;
+}
