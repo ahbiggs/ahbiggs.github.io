@@ -218,3 +218,8 @@ summary.table {
     flex: 1 0 15em;
     padding: 10px;
   }
+
+  .socialmedia {
+    padding: 15px;
+    float: right;
+  }
