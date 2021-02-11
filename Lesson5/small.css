@@ -215,7 +215,7 @@ summary.table {
 
   .contact-socialmedia { 
     font-size: 30px;
-    columns: 2;
+    /*columns: 2;*/
   }
 
   .contact {
@@ -223,12 +223,12 @@ summary.table {
     font-size: 20px;
     max-width: 1200px;
     margin: auto; 
-    display: grid;
-    grid-template-columns: auto auto auto;
+    display: flex;
+    /*grid-template-columns: auto auto auto;*/
 }
 
 .contact-map {
     font-size: 30px;
-    columns: 1;
+   /* columns: 1;*/
 
 }
