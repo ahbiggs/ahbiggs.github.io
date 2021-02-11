@@ -216,8 +216,8 @@ summary.table {
 
   .leftcol, .rightcol {
     max-width: 100%%;
-    /*flex: 1 0 15em;
-    padding: 10px;*/ 
+    flex: 1 0 15em;
+    /*padding: 10px;*/ 
   } 
 
   .socialmedia {
