@@ -14,7 +14,7 @@ window.onresize = () => {if (window.innerWidth > 760) mainnav.classList.remove('
   classList property - https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
   */
 
-  let year = new Date().getFullYear();
+ let year = new Date().getFullYear();
 let day = new Date().getDay();
 let dayNum = new Date().getDate();
 let month = new Date().getMonth();
