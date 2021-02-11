@@ -215,7 +215,7 @@ summary.table {
 
   .contact-socialmedia { 
     font-size: 30px;
-    /*columns: 2;*/
+    columns: 2;
   }
 
   .contact {
