@@ -222,6 +222,7 @@ summary.table {
     padding: 70px;
     font-size: 12px;
     margin: auto; 
+    display: grid;
 }
 
 .map {
