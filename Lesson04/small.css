@@ -181,6 +181,7 @@ summary.table {
     text-align: center;
     background-color: #f29559;
     align-items: center;
+    color: white;
 } 
 
 /* ul.five {
@@ -225,10 +226,7 @@ summary.table {
   }
 
   .contact{
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-    background-color: #f29559;
     margin: auto;
+    background-color: #f29559;
+    max-width: 1200px;
   }
