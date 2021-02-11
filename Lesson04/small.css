@@ -213,8 +213,10 @@ summary.table {
     height: auto; 
   }
 
-  .socialmedia { 
-      float: right;
+  .contact-socialmedia { 
+    padding: 20px;
+    font-size: 30px;
+    columns: 3;
   }
 
   .contact {
@@ -223,9 +225,12 @@ summary.table {
     font-size: 12px;
     margin: auto; 
     display: grid;
+    grid-template-columns: auto auto auto;
 }
 
-.map {
-    float: left;
+.contact-map {
+    padding: 20px;
+    font-size: 30px;
+    columns: 1;
 
 }
