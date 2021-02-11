@@ -81,7 +81,7 @@ if (day == 7) {
     day = "Sunday";
 }
 
-document.getElementById("year").innerHTML = "&#169; " + year + "AnDee Biggs";
+document.getElementById("year").innerHTML = "&#169; " + year + "AnDee Wadsworth Biggs";
 document.getElementById("output").innerHTML = day + ', ' + dayNum + ' ' + month + ' ' + year;
 
 if (day == "Friday") {
