@@ -229,7 +229,6 @@ summary.table {
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
-    padding: 10px; 
     background-color: #f29559;
     margin: auto;
   }
