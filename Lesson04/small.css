@@ -58,7 +58,7 @@ header {
   }
 
 
-main
+main, footer, nav
 {
 	max-width: 1200px;
 	margin: auto;
@@ -199,6 +199,7 @@ summary.table {
 .forecast {
     border-collapse: collapse;
     width: 100%;
+    margin: auto;
   }
   
   th {
