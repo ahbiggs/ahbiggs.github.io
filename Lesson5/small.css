@@ -224,7 +224,7 @@ summary.table {
     max-width: 1200px;
     margin: auto; 
     display: grid;
-    grid-template-columns: auto auto auto;
+    /*grid-template-columns: auto auto auto;*/ 
 }
 
 .contact-map {
