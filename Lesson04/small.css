@@ -214,11 +214,11 @@ summary.table {
     height: auto; 
   }
 
-  /*.leftcol, .rightcol {
-    max-width: 48%;
-    flex: 1 0 15em;
-    padding: 10px;
-  } */ 
+  .leftcol, .rightcol {
+    max-width: 100%%;
+    /*flex: 1 0 15em;
+    padding: 10px;*/ 
+  } 
 
   .socialmedia {
     padding: 15px;
