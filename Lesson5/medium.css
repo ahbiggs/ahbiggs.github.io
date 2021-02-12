@@ -13,4 +13,23 @@
 	.navigation li:first-child {
 		display: none;
 	}
+
+	.contact {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr;
+        justify-items: center;
+	}
+	
+	.contact-socialmedia {
+        grid-column: 2/3;
+        display: flex;
+        align-items: center;
+        font-size: 20px;
+    }
+
+    .map {
+        grid-column: 1/2;
+        margin: 20px;
+    }
 }
