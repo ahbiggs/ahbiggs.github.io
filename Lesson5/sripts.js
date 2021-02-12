@@ -85,7 +85,7 @@ document.getElementById("year").innerHTML = "&#169; " + year + "AnDee Wadsworth 
 document.getElementById("output").innerHTML = day + ', ' + dayNum + ' ' + month + ' ' + year;
 
 if (day == "Friday") {
-    document.getElementById("announcement").innerHTML = "Saturday = Preston Pancakes in the Park!  9:00 A.M. Saturday at the City Park Pavilion.";
+    document.getElementById("announcement").innerHTML = "Saturday: Preston Pancakes in the Park!  9:00 A.M. Saturday at the City Park Pavilion.";
 }
 
 if (day != "Friday") {
