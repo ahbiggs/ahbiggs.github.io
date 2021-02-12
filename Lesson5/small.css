@@ -215,7 +215,7 @@ summary.table {
 
   .contact-socialmedia { 
     font-size: 30px;
-    flex-flow:row;
+    flex-flow: left;
   }
 
   .contact {
@@ -230,6 +230,6 @@ summary.table {
 
 .contact-map {
     font-size: 30px;
-    flex-flow: row;
+    flex-flow: right;
 
 }
