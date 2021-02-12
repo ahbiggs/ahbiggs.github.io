@@ -207,7 +207,7 @@ summary.table {
     height: 70px;
   }
 
-  #icon {
+  #icon1, #icon2, #icon3, #icon4, #icon5, #icon6, #icon7, #icon8 {
     width: 80px;
     height: auto; 
   }
