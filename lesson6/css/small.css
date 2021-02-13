@@ -159,7 +159,7 @@ footer {
     position: relative;
     top: -13em;
     left: 4em;
-    width: 50%;  
+    width: auto;  
     /*max-height: 12em;*/ 
     padding-bottom: 1em;    
     background-color: #283845;
@@ -273,7 +273,7 @@ footer {
 }
 
 .hero img {
-    width: 75%;
+    max-width: 1200px;
     height: auto;
     margin: auto;
 }
