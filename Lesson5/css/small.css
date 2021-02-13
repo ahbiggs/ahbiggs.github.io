@@ -121,7 +121,7 @@ nav {
 .responsive li {
 	display: block;
 }
-.active {
+.navigation-active {
 	color: purple;
 }
 
