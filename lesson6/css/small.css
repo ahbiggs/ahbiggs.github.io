@@ -162,14 +162,14 @@ footer {
     max-width: 10em;  
     max-height: 12em; 
     padding-bottom: 1em;    
-    background-color: plum;
+    background-color: navy;
     opacity: .7;
-    Border: solid rgb(92, 46, 92) 1em;
+    Border:  white (92, 46, 92) 1em;
 }
 
 .r1 {
     text-align: right;
-    color: #202c39;
+    color: white;
     opacity: 5;
     font-size: 2vw;
     font-family: 'Arial';
@@ -177,7 +177,7 @@ footer {
 
 .r2 {
     text-align: left;
-    color: #283845;
+    color: white;
     opacity: 5;
     font-size: 2vw;
     font-family: 'Arial';
