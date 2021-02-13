@@ -131,11 +131,11 @@ footer {
     height: auto;
 }
 
-.summary {
+/*.summary {
     background-image: url("/images/heroimage.jpeg");
     background-size: 100%;
     background-repeat: no-repeat;
-}
+} 
 
 /* .summary {
     display: table;
