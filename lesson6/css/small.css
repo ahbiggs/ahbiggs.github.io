@@ -274,6 +274,7 @@ footer {
 
 .hero img {
     max-width: 1000px;
+    align-self: center;
     height: auto;
     margin: auto;
 }
