@@ -122,7 +122,7 @@ nav {
 	display: block;
 }
 .active {
-	color: #f29559;
+	color: purple;
 }
 
 
@@ -180,7 +180,7 @@ summary.table {
     text-align: center;
     background-color: #f29559;
     align-items: center;
-    color: white;
+    color: black;
 } 
 
 /* ul.five {
