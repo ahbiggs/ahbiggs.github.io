@@ -33,13 +33,15 @@
         </ul>
     </nav>
       <main>
-          <picture class="hero">
-              <source srcest="images/mediumsky.webp"  media="(min-width:575px) and (max-width:999px)">
-                <source srcset="images/largesky.webp" media="(min-width: 1000px)">
-                    <source srcset="images/smallsky.webp" alt="bright blue sky">
+        <picture>
+            <source media="(max-width: 799px)" srcset="images/mediumsky.webp">
+            <source media="(min-width: 800px)" srcset="images/laresky.webp">
+            <img src="images/largesky.webp" alt="blue sky">
           </picture>
+    
+         <div class="summary">
         <h2>Preston, Idaho</h2>
-        <div class="summary">
+
             <section class="summary table">
                 <h3>Weather Summary</h3>
                 <table>
