@@ -155,7 +155,7 @@ footer {
 
 }*/ 
 
-summary.table {
+.summarytable {
     position: relative;
     top: -13em;
     left: 4em;
