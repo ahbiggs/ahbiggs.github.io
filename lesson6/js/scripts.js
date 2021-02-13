@@ -90,4 +90,4 @@ if (day == "Friday") {
 
 if (day != "Friday") {
     document.getElementById("announcement").style.display = 'none';
-}
+} 
