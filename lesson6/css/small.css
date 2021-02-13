@@ -258,11 +258,8 @@ summary.table {
     padding: 20px;
 }
 
-main figure.photo {
-    width: 50%;
-
-}
-main figure.photo-img{
-    width: 100%
-
+.hero img {
+    width: 75%;
+    height: auto;
+      margin-top: -10px;
 }

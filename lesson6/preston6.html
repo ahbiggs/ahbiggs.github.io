@@ -33,13 +33,15 @@
         </ul>
     </nav>
       <main>
-       <figure class="photo">
-      <img src="images/largesky.webp">
-      
-       </figure>
+   
     
          <div class="summary">
         <h2>Preston, Idaho</h2>
+        <picture class="hero">
+            <source srcset="images/largesky.webp" media="(min-width: 575px) and (max-width: 999px)">
+            <source srcset="images/mediumsky.webpg" media="(min-width: 1000px)">            
+            <img src="images/smallsky.webp" alt="sunny hero image">          
+          </picture>
 
             <section class="summary table">
                 <h3>Weather Summary</h3>
