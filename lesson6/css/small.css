@@ -257,3 +257,12 @@ summary.table {
     background-color: #f29559;
     padding: 20px;
 }
+
+figure.photo {
+    width: 50%;
+
+}
+figure.photo-img{
+    width: 100%
+
+}
