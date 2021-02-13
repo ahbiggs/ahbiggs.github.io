@@ -258,11 +258,11 @@ summary.table {
     padding: 20px;
 }
 
-main.figure.photo {
+main figure.photo {
     width: 50%;
 
 }
-main.figure.photo-img{
+main figure.photo-img{
     width: 100%
 
 }
