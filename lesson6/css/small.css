@@ -171,7 +171,7 @@ footer {
     text-align: right;
     color: white;
     opacity: 5;
-    font-size: 2vw;
+    font-size: 12px;
     width: 100%;
     font-family: 'Arial';
 }
@@ -180,7 +180,7 @@ footer {
     text-align: left;
     color: white;
     opacity: 5;
-    font-size: 2vw;
+    font-size: 12px;
     font-family: 'Arial';
     width: 100%; 
 }
