@@ -293,3 +293,6 @@ footer {
     padding: 20px;
 }
 
+.figcaption {
+    align-items: center;
+}
