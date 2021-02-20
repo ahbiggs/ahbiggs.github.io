@@ -282,8 +282,7 @@ footer {
 .gallery {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto;
     position: relative;
 }
 

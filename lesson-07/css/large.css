@@ -4,12 +4,12 @@
 
     .gallery{
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr;
         margin-right: auto;
         margin-left: auto;
-        max-width:52em;
+        max-width: 52em;
         position: relative;
-        left: -40px;
+        
     }
 
 
