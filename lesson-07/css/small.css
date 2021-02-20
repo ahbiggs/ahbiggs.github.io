@@ -278,3 +278,12 @@ footer {
     height: auto;
     margin: auto;
 }
+
+.gallery {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    left: 60px;
+}
