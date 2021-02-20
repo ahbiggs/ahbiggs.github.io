@@ -283,7 +283,8 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin: auto;
-    position: relative;
+    max-width: 1200px;
+    
 }
 
 .photo {
