@@ -32,4 +32,18 @@
         grid-column: 1/2;
         margin: 20px;
     }
+
+        
+
+    .gallery{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin-right: auto;
+        margin-left: auto;
+        position: relative;
+        left: -45px;
+    
+        max-width: 52em;
+    }
+
 }
