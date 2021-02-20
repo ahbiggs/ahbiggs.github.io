@@ -1,0 +1,25 @@
+@media only screen
+    and (min-width: 64em){
+    
+
+    .gallery{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-right: auto;
+        margin-left: auto;
+        max-width:52em;
+        position: relative;
+        left: -40px;
+    }
+
+
+
+    
+}
+
+.photo{
+    Max-width: 260px;
+    max-height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
