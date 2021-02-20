@@ -288,16 +288,8 @@ footer {
 }
 
 .photo {
-    height: 50px;
-    width: 50px;
+    height: 200px;
+    width: 300px;
     padding: 20px;
 }
 
-img {
-    filter: blur(0em);
-    transition: filter 0.5s;
-}
-  
-img[data-src] {
-    filter: blur(0.2em);
-}
