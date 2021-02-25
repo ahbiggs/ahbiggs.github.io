@@ -36,7 +36,7 @@ tfoot td{
 }
 
 tr:nth-child(even){
-    background-color: lightgray;
+    background-color: #e7f0ed;
 }
 
 tr:nth-child(odd){
