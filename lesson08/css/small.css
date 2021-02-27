@@ -111,28 +111,3 @@ form {
 }
 
 
-input, .ibutton, select{
-    height: 2em; 
-    width: 5em;
-    border-radius: 10px;
- }
-
-
-
- label, .ibutton, legend{
-     font-size: 1.5em;
-     text-align: left;
- }
-
-
- textarea{
-     max-width: 22.5em;
-     border-radius: 10px;
- }
-
- .container{
-    width: 62em;
-    position: relative;
-    left: 1.5em;
-    right: -3em;
-}
