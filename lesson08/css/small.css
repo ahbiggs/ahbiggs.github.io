@@ -94,3 +94,10 @@ footer {
 	flex: 0 1 100%;
     height: auto;
 }
+
+.container{
+    width: 62em;
+    position: relative;
+    left: 1.5em;
+    right: -3em;
+}
