@@ -111,7 +111,8 @@ form {
 
 
 input, .ibutton, select{
-    height: 2.7em; 
+    height: 2em; 
+    width: 5em;
     border-radius: 10px;
  }
 
