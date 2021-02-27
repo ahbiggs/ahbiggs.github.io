@@ -107,3 +107,49 @@ form {
     position: relative;
     left: 11em;
 }
+
+
+input, .ibutton, select{
+    height: 2.7em; 
+    border-radius: 10px;
+ }
+
+ #rating{
+     min-width: 12.9em;
+     max-width: 13em;
+ }
+
+ label, .ibutton, legend{
+     font-size: 1.5em;
+     text-align: left;
+ }
+
+ .stormrange{
+     display: flex;
+     border: solid lightgray .1em;
+     border-radius: 10px;
+ }
+
+ legend{
+     border-radius: 10px;
+ }
+
+.stormrange{
+    display: inline-block;
+}
+
+span{
+    font-size: 2em;
+    position: relative;
+    left: 3em;
+}
+
+ select {
+     height: 45px;
+    
+ }
+
+ textarea{
+     max-width: 22.5em;
+     border-radius: 10px;
+ }
