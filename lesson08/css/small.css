@@ -153,3 +153,10 @@ span{
      max-width: 22.5em;
      border-radius: 10px;
  }
+
+ .container{
+    width: 62em;
+    position: relative;
+    left: 1.5em;
+    right: -3em;
+}
