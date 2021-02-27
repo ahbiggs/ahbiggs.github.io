@@ -107,6 +107,7 @@ form {
     max-width: 35em;
     position: relative;
     left: 11em;
+    margin: auto;
 }
 
 
@@ -123,30 +124,6 @@ input, .ibutton, select{
      text-align: left;
  }
 
- .stormrange{
-     display: flex;
-     border: solid lightgray .1em;
-     border-radius: 10px;
- }
-
- legend{
-     border-radius: 10px;
- }
-
-.stormrange{
-    display: inline-block;
-}
-
-span{
-    font-size: 2em;
-    position: relative;
-    left: 3em;
-}
-
- select {
-     height: 45px;
-    
- }
 
  textarea{
      max-width: 22.5em;
