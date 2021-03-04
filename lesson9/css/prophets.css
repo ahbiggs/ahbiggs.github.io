@@ -1,7 +1,11 @@
+h1, h2{
+    text-align: center;
+    color: purple;
+}
 
-
-
-
+p {
+    text-align: center;
+}
 
 .cards section {
 
