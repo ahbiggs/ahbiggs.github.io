@@ -12,6 +12,7 @@ fetch(requestURL)
         let card = document.createElement('section');
         let h2 = document.createElement('h2');
         let p = document.createElement('p');
+        let p1 = document.createElement('p1');
         let image = document.createElement('img');
 
         h2.textContent = prophets[i].name + ' ' + prophets[i].lastname;
@@ -21,6 +22,7 @@ fetch(requestURL)
 
         card.appendChild(h2);
         card.appendChild(p);
+        card.appendChuld(p1);
         card.appendChild(image);
         
 
