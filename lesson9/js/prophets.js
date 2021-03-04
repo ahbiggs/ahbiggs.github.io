@@ -22,7 +22,7 @@ fetch(requestURL)
 
         card.appendChild(h2);
         card.appendChild(p);
-        card.appendChuld(p1);
+        card.appendChild(p1);
         card.appendChild(image);
         
 
