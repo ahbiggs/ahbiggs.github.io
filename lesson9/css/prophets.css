@@ -3,6 +3,10 @@ h1, h2{
     color: purple;
 }
 
+footer {
+    align-items: center;
+}
+
 .cards section {
 
     background-color: rgb(189, 124, 189); 
