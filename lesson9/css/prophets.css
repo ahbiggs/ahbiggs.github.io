@@ -21,6 +21,11 @@ footer {
 
 }
 
+div {
+    background-color: lightgrey;
+    box-shadow: 2px 2px black;
+}
+
 .cards img {
     align-items: center;
     box-shadow: 2px 2px black;
