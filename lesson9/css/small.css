@@ -195,12 +195,11 @@ font-size: large;
     color: white;
     margin: auto; 
   }
-  
+
 /* homepage styling */ 
 
   .grids2{
-    /*display: block;*/
-    grid-template-columns: 1fr 1fr 1fr;
+    display: block;
     margin: auto;
 }
 
