@@ -132,6 +132,36 @@ input[type=text], select {
     padding: 20px;
   }
 
+  .summarytable {
+    position: relative;
+    top: -13em;
+    left: 4em;
+    max-width: 20em;  
+    max-height: 12em;
+    padding-bottom: 1em;    
+    background-color: #283845;
+    opacity: .7;
+
+}
+
+.r1 {
+    text-align: left;
+    color: white;
+    opacity: 5;
+    font-size: 12px;
+    width: 100%;
+    font-family: 'Arial';
+}
+
+.r2 {
+    text-align: center;
+    color: white;
+    opacity: 5;
+    font-size: 12px;
+    font-family: 'Arial';
+    width: 100%; 
+}
+
 /* homepage styling */ 
 
   .grids2{
