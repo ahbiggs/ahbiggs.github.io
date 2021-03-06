@@ -131,3 +131,39 @@ input[type=text], select {
     background-color: #f2f2f2;
     padding: 20px;
   }
+
+  .grids2{
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    margin: auto; 
+}
+
+.json{
+    text-align: center;
+    justify-self: center;
+}
+
+.mottos, .years, .pop, .arf{
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+.citiesdiv{
+    display: block;
+    border: solid blue .5em;
+    background-color: skyblue;
+    margin: 1em;        
+    max-width: 20em;       
+    position: relative;
+    left: 11em;
+}
+
+
+.fimage{
+    width: 100%;
+    
+}
+
+#fh{
+    min-height: 14em;
+}
