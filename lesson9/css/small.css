@@ -11,7 +11,7 @@ body {
 footer {
     background-color: #202c39;
     display: flex;
-	flex-flow: column;
+	  flex-flow: column;
     color: white;
     text-align: center;
 } 
@@ -169,7 +169,7 @@ input[type=text], select {
     min-height: 14em;
 }
 
-@media only screen and (min-width: 617px) {
+/* @media only screen and (min-width: 617px) {
 
   .grids2 {
       display: grid;
@@ -179,7 +179,7 @@ input[type=text], select {
   img {
       max-width: 100%;
   }
-}
+}*/ 
 
 @media only screen and (min-width: 1024px) {
   .grids2 {
