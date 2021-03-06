@@ -38,9 +38,14 @@ header {
     padding-left: 15em;
 }
 
-h2, h3 {
+h2 {
     text-align: center;
     color: #202c39;
+}
+
+h3 {
+  text-align: center;
+  color: white;
 }
 
 #logo {
