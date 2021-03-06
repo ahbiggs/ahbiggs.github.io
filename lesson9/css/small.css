@@ -192,8 +192,10 @@ font-size: large;
 	background-color: #202c39;
     padding: 25px;
     margin-bottom: 15px;
-    color: white
+    color: white;
+    margin: auto; 
   }
+  
 /* homepage styling */ 
 
   .grids2{
