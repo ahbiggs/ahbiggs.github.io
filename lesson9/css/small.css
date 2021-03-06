@@ -131,13 +131,11 @@ input[type=text], select {
     background-color: #f2f2f2;
     padding: 20px;
   }
-  
+
 /* homepage styling */ 
 
   .grids2{
-    grid-template-columns: 1fr 1fr 1fr;
-    
-    margin: auto; 
+    display: block;
 }
 
 .json{
@@ -152,8 +150,8 @@ input[type=text], select {
 
 .citiesdiv{
     display: block;
-    border: solid blue .5em;
-    background-color: skyblue;
+    border: #202c39 .5em;
+    background-color: #b8b08d;
     margin: 1em;        
     max-width: 20em;       
     position: relative;
@@ -168,4 +166,22 @@ input[type=text], select {
 
 #fh{
     min-height: 14em;
+}
+
+@media only screen and (min-width: 617px) {
+
+  .grids2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+  }
+
+  img {
+      max-width: 100%;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .grids2 {
+      grid-template-columns: 1fr 1fr 1fr;
+  }
 }
