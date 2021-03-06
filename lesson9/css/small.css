@@ -135,7 +135,7 @@ input[type=text], select {
 /* homepage styling */ 
 
   .grids2{
-    display: block;
+    /*display: block;*/
     grid-template-columns: 1fr 1fr 1fr;
     margin: auto;
 }
