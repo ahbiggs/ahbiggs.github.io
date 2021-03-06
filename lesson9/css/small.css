@@ -173,6 +173,27 @@ input[type=text], select {
   height: auto;
   margin: auto;
 }
+
+h5 {
+  color:white;
+  font-size: large;
+}
+
+h6 {
+  color: white; 
+  font-size: medium;
+}
+.p {
+color: white;
+font-size: large; 
+}
+
+.article {
+	background-color: #202c39;
+    padding: 25px;
+    margin-bottom: 15px;
+    color: white
+  }
 /* homepage styling */ 
 
   .grids2{
