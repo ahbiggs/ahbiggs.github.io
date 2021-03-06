@@ -136,6 +136,7 @@ input[type=text], select {
 
   .grids2{
     display: block;
+    grid-template-columns: 1fr 1fr 1fr;
     margin: auto;
 }
 
