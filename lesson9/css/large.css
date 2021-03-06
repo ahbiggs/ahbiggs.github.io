@@ -1,5 +1,8 @@
 @media only screen and (min-width: 1024px) {
-    .grids2 {
+    div.grid2 {
+        display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-    }
+        width: 100%;
+        gap: 10px;
+      }
   }
