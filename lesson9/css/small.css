@@ -152,7 +152,7 @@ input[type=text], select {
 .citiesdiv{
     display: block;
     border: #202c39 .5em;
-    background-color: #b8b08d;
+    background-color: white;
     margin: auto;        
     max-width: 20em;       
     position: relative;
@@ -181,8 +181,3 @@ input[type=text], select {
   }
 }*/ 
 
-@media only screen and (min-width: 1024px) {
-  .grids2 {
-      grid-template-columns: 1fr 1fr 1fr;
-  }
-}
