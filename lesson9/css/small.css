@@ -134,9 +134,10 @@ input[type=text], select {
 
 /* homepage styling */ 
 
-  /*.grids2{
+  .grids2{
     display: block;
-}*/ 
+    margin: auto;
+}
 
 .json{
     text-align: center;
