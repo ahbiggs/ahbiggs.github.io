@@ -134,7 +134,7 @@ input[type=text], select {
 
   .summarytable {
     position: relative;
-    top: -13em;
+    top: -15em;
     left: 4em;
     max-width: 20em;  
     max-height: 12em;
