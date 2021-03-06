@@ -14,7 +14,7 @@ request.onload = function() {
 function showTowns(jsonObj) {
     var wTowns = jsonObj['towns'];
 
-var i = 4;
+var i = 6;
 
 var name1 = wTowns[i].name;
 var motto1 = wTowns[i].motto;
