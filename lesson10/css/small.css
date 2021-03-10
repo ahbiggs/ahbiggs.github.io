@@ -211,11 +211,11 @@ footer {
     float: right;
 }
 
-.forecast {
+/*.forecast {
     border-collapse: collapse;
     width: 100%;
     margin: auto;
-  }
+  }*/ 
   
   th {
     height: 70px;
@@ -278,3 +278,30 @@ footer {
     height: auto;
     margin: auto;
   }
+
+
+  .forecast{
+    Max-width: 56em;
+    
+    background-color: lightskyblue;
+    padding-bottom: 0em;
+    margin-bottom: 0em;
+    border-bottom: 0em;
+    position: relative;
+    top: -16.7em;
+ }
+ 
+ .forecast h3{
+     text-align: center;
+ 
+ }
+ 
+ .forecasttable{
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .forecasttable th, .forecasttable td{
+     width: 5em;
+     text-align: center;
+     border: solid black .1em;
+ }
