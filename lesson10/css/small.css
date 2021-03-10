@@ -280,13 +280,8 @@ footer {
   }
 
 
-  .forecast{
-    Max-width: 56em;
-    
-    background-color: #f29559;
-    padding-bottom: 0em;
-    margin-bottom: 0em;
-    border-bottom: 0em;
+  .forecast {
+     background-color: #f29559;
     position: relative;
 
  }
