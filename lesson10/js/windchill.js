@@ -1,13 +1,10 @@
-var temperature = parseInt(document.getElementById('temperature').innerHTML);
-var windSpeed = parseInt(document.getElementById('windspeed').innerHTML);
-console.log(temperature);
-console.log(windSpeed);
+function doInputOutput()
+{
+    var a = 5;
+    var b = 3;
 
-if (temperature <= 50) {
-    var windChill = Math.round(35.74 + (0.6215 * temperature) - (35.75 * Math.pow(windspeed, 0.16)) + (0.4275 * temperature * Math.pow(windspeed, 0.16)));
-    document.getElementById("windchill").innerHTML = windChill + "&#176; F";
-}
+    degrees = 35.74 + 0.6215*a - 35.75 * Math.pow(b, 0.16) + 0.4275*a*Math.pow(b, 0.16);
+   
+    document.getElementById("wc").innerHTML = a;
 
-else {
-    document.getElementById("windchill").innerHTML = "N/A";
 }
