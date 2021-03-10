@@ -32,7 +32,7 @@ weatherRequest.onload = function () {
 }
 
 var weatherRequest2 = new XMLHttpRequest();
-var apiURL2 = 'https://api.openweathermap.org/data/2.5/forecast?id=5061036&units=imperial&APPID=860bb90544dca91f036238da81d95e46';
+var apiURL2 = 'https://api.openweathermap.org/data/2.5/weather?id=5604473&units=imperial&APPID=15d2e4c808dd6f96b3f4e8677d9cea93';
 
 weatherRequest2.open('GET',apiURL2, true);
 weatherRequest2.responseType = 'text';
