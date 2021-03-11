@@ -92,7 +92,7 @@ weatherRequest2.onload = function () {
     var tf = d * 6;
     var tf1 = 6 + tf;
 
-    document.getElementById('f1').innerHTML = weatherData2.list[tf1].main.weather.icon;
+    document.getElementById('f1').innerHTML = weatherData2.list[1].id;
     document.getElementById('f2').innerHTML = weatherData2.list[tf1+8].main.temp_max.toFixed(1) + '&degF';
     document.getElementById('f3').innerHTML = weatherData2.list[tf1+16].main.temp_max.toFixed(1) + '&degF';
     document.getElementById('f4').innerHTML = weatherData2.list[tf1+24].main.temp_max.toFixed(1) + '&degF';
