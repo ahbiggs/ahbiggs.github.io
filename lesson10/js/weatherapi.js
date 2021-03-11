@@ -32,7 +32,8 @@ weatherRequest.onload = function () {
 }
 
 var weatherRequest2 = new XMLHttpRequest();
-var apiURL2 = 'https://api.openweathermap.org/data/2.5/forecast?id=5604473&units=imperial&APPID=15d2e4c808dd6f96b3f4e8677d9cea93';
+/*var apiURL2 = 'https://api.openweathermap.org/data/2.5/forecast?id=5604473&units=imperial&APPID=15d2e4c808dd6f96b3f4e8677d9cea93';*/
+var apiURL2 = 'https://samples.openweathermap.org/data/2.5/find?q=5604473&appid=15d2e4c808dd6f96b3f4e8677d9cea93';
 
 weatherRequest2.open('GET',apiURL2, true);
 weatherRequest2.responseType = 'text';
@@ -91,7 +92,7 @@ weatherRequest2.onload = function () {
     var tf = d * 6;
     var tf1 = 6 + tf;
 
-    document.getElementById('f1').innerHTML = weatherData2.list[tf1].main.temp_max.toFixed(1) + '&degF';
+    document.getElementById('f1').innerHTML = weatherData2.list[tf1].main.weather.icon;
     document.getElementById('f2').innerHTML = weatherData2.list[tf1+8].main.temp_max.toFixed(1) + '&degF';
     document.getElementById('f3').innerHTML = weatherData2.list[tf1+16].main.temp_max.toFixed(1) + '&degF';
     document.getElementById('f4').innerHTML = weatherData2.list[tf1+24].main.temp_max.toFixed(1) + '&degF';
