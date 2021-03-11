@@ -99,9 +99,7 @@ weatherRequest2.onload = function () {
     document.getElementById('f5').innerHTML = weatherData2.list[tf1+32].main.temp_max.toFixed(1) + '&degF';
 
 
-   
 
+
+    
 }
-
-var weatherRequest2 = new XMLHttpRequest();
-var apiURL3 = 'https://samples.openweathermap.org/data/2.5/find?q=5604473&appid=15d2e4c808dd6f96b3f4e8677d9cea93';
