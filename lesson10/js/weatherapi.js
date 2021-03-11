@@ -44,16 +44,6 @@ weatherRequest2.onload = function () {
 
     var today = new Date(weatherData2.list[0].dt_txt);
 
-    /*It appears that in order to get the 16-day forecast you have to pay to get the
-    API key.  Hence, I am trying to fill in the forecast data using an awkward forecast
-    for every three hours, but try to just get the forecast high for the next five days
-    To complicate this, sometimes the JSON data is projecting so far ahead that if I start 
-    with the getDate() from the first JSON data (or list item 0) then the getDate() ends
-    up being tomorrow.  So I have worked a formula that will ensure that I always get today's
-    day of the week to start my data for the upcoming week.  Unfortunately, I cannot always
-    get todays "high" temperature.*/
-
-    /*Set variables so that 'weekday[i]' will always equal todays weekday*/
 
     var a = today.getDate(); 
     var b = new Date().getDate();
@@ -101,7 +91,7 @@ weatherRequest2.onload = function () {
     var tf = d * 6;
     var tf1 = 6 + tf;
 
-    document.getElementById('f1').innerHTML = weatherData2.list[tf1].main.temp_max.toFixed(1) + '&degF';
+    document.getElementById('f1').innerHTML = weatherData2.list[tf1].main.icon;
     document.getElementById('f2').innerHTML = weatherData2.list[tf1+8].main.temp_max.toFixed(1) + '&degF';
     document.getElementById('f3').innerHTML = weatherData2.list[tf1+16].main.temp_max.toFixed(1) + '&degF';
     document.getElementById('f4').innerHTML = weatherData2.list[tf1+24].main.temp_max.toFixed(1) + '&degF';
