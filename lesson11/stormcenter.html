@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Preston Page">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">       
+    <link rel="shortcut icon" href="/lesson6/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/small.css">
+    <link rel="stylesheet" href="css/medium.css">
+    <link rel="stylesheet" href="css/large.css">  
+    <title>Storm Center</title>
+</head>
+<body>
+    <header>
+        <img class="sun" id="logo" src="/lesson6/images/icon_001.PNG" alt="sun and cloud">
+     <div class="headertext">
+        <h1>Better To Weather</h1>
+    <div class="subheading">Always Better to Weather</div>
+     </div>     
+    </header>
+    <nav>
+        <ul class="navigation">
+            <li><a class="ham" href="#">Menu</a></li>
+            <li><a href="/lesson11/index.html">Home</a></li>
+            <li><a href="/lesson11/preston.html">Preston</a></li>
+            <li><a href="/lesson11/soda.html">Soda Springs</a></li>
+            <li><a href="/lesson11/fish.html">Fish Haven</a></li>
+            <li><a href="/lesson11/stormcenter.html" class="active">Storm Center</a></li>
+            <li><a href="/lesson11/gallery.html">Gallery</a></li>
+        </ul>
+    </nav>
+    
+    <h2 class="city">Storm Center</h2> 
+    
+    <div class="fill">
+    <form method="get" action="thanks.html">
+        <h3>Submit the following information:</h3>
+        
+        <label>Full Name (Last Name, First Name)*:<br>
+        <input type="text" name="name" pattern="[A-Za-z ]{5,}" required></label><br><br>
+        <label>Email Address:<br>
+        <input type="email" name="email" placeholder="johndoe@gmail.com"></label><br><br>
+        <label>Phone Number*:<br>
+        <input type="tel" name="phone" required></label><br><br>
+        <label>Zip Code*:<br>
+        <input type="number" name="zip" required></label><br><br>
+        <label>Storm Date:<br>
+        <input type="date" name="date"></label><br><br>
+        <label>Storm Severity (1-10):</label><br>
+        <div class="stormrange">
+        <input type="range" name="stormrange" id="rating" min="1" max="10" step="1" oninput="adjustRating(this.value)" onchange="adjustRating(this.value)"><br>
+        <span id="ratingvalue">5</span>
+        </div><br><br>
+        <label>Storm Region:<br>
+        <select name="region">
+            <option value="">Select Region</option>
+            <option value="preston">Preston</option>
+            <option value="sodasprings">Soda Springs</option>
+            <option value="fishhaven">Fish Haven</option>
+        </select></label><br><br>
+               
+        <fieldset>
+        <legend>User In-danger Level</legend>
+        <label><input type="radio" name="userintrouble" value="yes">Yes</label>
+        <label><input type="radio" name="userintrouble" value="no">No</label>
+        <label><input type="radio" name="userintrouble" value="maybe">Maybe</label>  
+        </fieldset> <br>   
+
+        <label>
+            <textarea name="comment" rows="4" cols="30" placeholder="Additional Comments...."></textarea>
+        </label>
+            
+        
+        <input type="submit" value="Submit" class="ibutton">
+    </form>
+    </div>
+    <footer>
+        <span id="year"></span>
+        <div id="output"></div>
+    </footer>
+    <script src="/lesson11/js/rating.js"></script>
+    <script src="/lesson11/js/scripts.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+    <script>WebFont.load({
+        google: {
+          families: [
+             'Roboto', 'sans-serif'
+          ]
+        }
+      });
+    </script>
+</body>
+</html>
