@@ -14,7 +14,7 @@ request.onload = function() {
 function showTowns(jsonObj) {
     var wTowns = jsonObj['towns'];
 
-var i = 6;
+var i = 0;
 
 var name1 = wTowns[i].name;
 var motto1 = wTowns[i].motto;
@@ -29,7 +29,7 @@ document.getElementById("yf1").innerHTML = yf1;
 document.getElementById("pop1").innerHTML = pop1;
 document.getElementById("arf1").innerHTML = arf1;
 
-var i = 5;
+var i = 2;
 
 var name2 = wTowns[i].name;
 var motto2 = wTowns[i].motto;
