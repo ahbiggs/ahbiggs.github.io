@@ -299,7 +299,7 @@ footer {
 
  /* homepage styling */ 
 
- /*.grids2{
+ .grids2{
     display: block;
     margin: auto;
 }
@@ -323,40 +323,6 @@ footer {
     position: relative;
     /*left: 11em;*/ 
 }
-
-.grids2{
-    grid-template-rows: 1fr;
-    display:inline-block;
-    
-}
-
-.citiesdiv{
-    display: inline-block;
-    position: relative;
-    left: 0em;
-    margin: .04em;
-    max-width: 13em;
-    min-height: 20em;
-
-}
-
-#fh{
-   min-height: 9em;
-   padding-top: 2.4em;
-}
-
-#years4, #pop4, #arf4{
-   Position: relative;
-   top: 1em;
-
-}
-
-
-.json{
-   min-height: 9em;
-}
-
-
 
 /* Gallery styling */  
 
