@@ -324,6 +324,16 @@ footer {
     /*left: 11em;*/ 
 }
 
+.fimage{
+    width: 100%;
+    
+}
+
+#fh{
+    min-height: 14em;
+}
+
+
 /* Gallery styling */  
 
 .gallery {
