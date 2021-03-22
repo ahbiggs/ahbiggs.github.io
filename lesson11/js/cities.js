@@ -44,7 +44,7 @@ document.getElementById("yf2").innerHTML = yf2;
 document.getElementById("pop2").innerHTML = pop2;
 document.getElementById("arf2").innerHTML = arf2;
 
-var i = 1;
+var i = 6;
 
 var name3 = wTowns[i].name;
 var motto3 = wTowns[i].motto;
