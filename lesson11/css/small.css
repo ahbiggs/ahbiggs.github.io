@@ -82,6 +82,11 @@ h6 {
     color: white; 
     font-size: medium;
 }
+
+h7 {
+    color: black;
+}
+
 .p {
 color: white;
 font-size: large; 
