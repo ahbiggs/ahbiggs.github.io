@@ -166,14 +166,10 @@ footer {
     padding-bottom: 2em;    
     background-color: #202c39;
     opacity: .8;
-    Border: solid #202c39 (92, 46, 92) 1em;
+    text-align:center;
+    font-size: 2vw;  
 }
 
-.summarytable{
-    text-align:center;
-    font-size: 2vw;
-   
-}
 
 .r1{
     text-align: right;
