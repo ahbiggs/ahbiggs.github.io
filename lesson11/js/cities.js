@@ -38,6 +38,7 @@ var motto2 = wTowns[i].motto;
 var yf2 = wTowns[i].yearFounded;
 var pop2 = wTowns[i].currentPopulation;
 var arf2 = wTowns[i].averageRainfall + '"';
+var eve2 = wTowns[i].events; 
 
 
 document.getElementById("city2").innerHTML = name2;
@@ -45,6 +46,7 @@ document.getElementById("motto2").innerHTML = motto2;
 document.getElementById("yf2").innerHTML = yf2;
 document.getElementById("pop2").innerHTML = pop2;
 document.getElementById("arf2").innerHTML = arf2;
+document.getElementById('event2').innerHTML = eve2;
 
 var i = 6;
 
@@ -53,6 +55,7 @@ var motto3 = wTowns[i].motto;
 var yf3 = wTowns[i].yearFounded;
 var pop3 = wTowns[i].currentPopulation;
 var arf3 = wTowns[i].averageRainfall + '"';
+var eve3 = wTowns[i].events;
 
 
 document.getElementById("city3").innerHTML = name3;
@@ -60,6 +63,8 @@ document.getElementById("motto3").innerHTML = motto3;
 document.getElementById("yf3").innerHTML = yf3;
 document.getElementById("pop3").innerHTML = pop3;
 document.getElementById("arf3").innerHTML = arf3;
+document.getElementById('event3').innerHTML = eve3;
+
 
 
 
