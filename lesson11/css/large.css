@@ -19,6 +19,17 @@
         height: auto;
         margin: auto;
     }
+
+    .grids2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 52em;
+        position: relative;
+        align-items: center;
+        
+    }
     
 }
 
