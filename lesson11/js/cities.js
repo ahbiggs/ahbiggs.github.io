@@ -21,6 +21,7 @@ var motto1 = wTowns[i].motto;
 var yf1 = wTowns[i].yearFounded;
 var pop1 = wTowns[i].currentPopulation;
 var arf1 = wTowns[i].averageRainfall + '"';
+var eve1 = wTowns[i].events; 
 
 
 document.getElementById("city1").innerHTML = name1;
@@ -28,6 +29,7 @@ document.getElementById("motto1").innerHTML = motto1;
 document.getElementById("yf1").innerHTML = yf1;
 document.getElementById("pop1").innerHTML = pop1;
 document.getElementById("arf1").innerHTML = arf1;
+document.getElementById('event1').innerHTML = eve1;
 
 var i = 2;
 

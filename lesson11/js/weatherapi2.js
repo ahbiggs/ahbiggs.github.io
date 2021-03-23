@@ -19,6 +19,7 @@ weatherRequest.onload = function () {
     document.getElementById('ws').innerHTML = weatherData.wind.speed;
     document.getElementById('soc1').innerHTML = temper;
     document.getElementById('soc2').innerHTML = temper;
+    
 
     var l = weatherData.main.temp;
     var m = weatherData.wind.speed;
