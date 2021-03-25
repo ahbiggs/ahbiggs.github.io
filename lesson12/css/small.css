@@ -1,0 +1,391 @@
+@charset "UTF-8"; /* not necessary */
+/* bluegrey matter   #637f80 light  #536872  #708090  #536878  #36454f dark */
+body {
+	font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #64b6ac;
+    width: 100%; 
+}
+
+/* phone or baseline views **************************/
+footer {
+    background-color: #daffef;
+    display: flex;
+	flex-flow: column;
+    color: black;
+    text-align: center;
+} 
+
+
+header {
+    background-color: #202c39;
+    display: flex;
+    flex-flow: column;
+    padding: 10px;
+    margin: 0em;
+    border: 0em;
+	text-align: center;
+	color: white;
+}
+.headertext {
+    display: inline-block; 
+    padding: 0em;
+    color: white;
+}
+.subheading {
+    font-size: 1.1em;
+    color: white;
+    padding-left: 0em;
+}
+
+#logo {
+    width: 150px;
+    position: relative;
+    background-color: white;
+    top: 10px;
+    left: 10px; 
+    border: 2px white; 
+    border-radius: 3px;
+    box-shadow: 4px 4px 4px black;
+  }
+
+ .article {
+	background-color: #202c39;
+    padding: 25px;
+    margin-bottom: 15px;
+    color: white
+  }
+
+
+main, footer
+{
+	max-width: 1200px;
+	margin: auto;
+}
+h1 {
+	font-size: 2rem;
+}
+h2 {
+    color: #283845;
+    text-align: center;
+} 
+
+h3 {
+    color: white;
+}
+h5 {
+    color:white;
+    font-size: large;
+}
+
+h6 {
+    color: white; 
+    font-size: medium;
+}
+
+.p {
+color: white;
+font-size: large; 
+}
+
+/* Small/Phone View ***************/
+nav {
+	margin: auto;
+    background-color: #202c39;
+    max-width: 1200px;
+}
+.navigation {
+	list-style: none;
+	padding: 0;
+}
+.navigation li:first-child {
+	display: block;
+}
+.navigation li {
+	display: none;
+}
+.navigation a {
+	display: block;
+	padding: 0.75rem;
+	text-align: left;
+	text-decoration: none;
+	color: white;
+	font-weight: 700;
+}
+.navigation a:hover {
+	color: black;
+	background-color: #f2d492;
+}
+
+/* the onclick JS toggles the .reponsive class from display none (.navigation li) to display block because the responsive class is added to the end of the class list like this in HTML.
+  <ul class="navigation responsive">
+*/
+.responsive li {
+	display: block;
+}
+.active {
+	color: purple;
+}
+
+
+footer {
+	flex: 0 1 100%;
+    height: auto;
+}
+
+/*.summary {
+    background-image: url("/images/heroimage.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
+/* .summary {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+}*/ 
+
+/*summary.table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+
+}*/ 
+
+.summarytable{
+    position: relative;
+    bottom: 18em;
+    left: 4em;
+    max-width: 13em;  
+    max-height: 12em; 
+    padding-bottom: 2em;    
+    background-color: #202c39;
+    opacity: .8;
+    text-align:center;
+    font-size: 2vw;  
+}
+
+
+.r1{
+    text-align: right;
+    color: rgb(250, 250, 7);
+    opacity: 1;
+    font-size: 2vw;
+    font-family: 'Arial'
+}
+
+.r2{
+    text-align: left;
+    color: rgb(255, 255, 255);
+    opacity: 5;
+    font-size: 2vw;
+    font-family: 'Arial';
+    white-space: nowrap;
+}
+
+/*.forecast li img {
+    width: 50px;
+    height: auto;
+} */
+
+/* div.fiveday {
+    text-align: center;
+    background-color: #f29559;
+    align-items: center;
+    color: black;
+} */
+
+/* ul.five {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin-top: 50px;
+    background-color: white;
+
+} */ 
+
+
+#umbrella {
+    float: right;
+}
+
+/*.forecast {
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+  }*/ 
+  
+  th {
+    height: 70px;
+  }
+
+  #icon1, #icon2, #icon3, #icon4, #icon5, #icon6, #icon7, #icon8 {
+    width: 80px;
+    height: auto; 
+  }
+
+ /* .contact-socialmedia { 
+    font-size: 30px;
+    columns: 3;
+  }
+
+  .contact {
+    background-color: #f29559;
+    font-size: 20px;
+    max-width: 1200px;
+    margin: auto; 
+    display: grid;
+    flex-flow: column;
+   grid-template-columns: auto auto auto;
+}
+
+.contact-map {
+    font-size: 30px;
+    columns: 1;
+
+} */ 
+
+
+.contact {
+    background-color: #f29559;
+    font-size: 12px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.contact-map {
+    margin-top: 30px;
+    width: 170px;
+    height: 170px;
+}
+
+.contact-socialmedia {
+    display: none;
+}
+
+#announcement {
+    font-size: 20px;
+    text-align: center;
+    background-color: #f29559;
+    padding: 20px;
+}
+
+
+
+
+  .forecast {
+     background-color: #f29559;
+    position: relative;
+
+ }
+ 
+ .forecast h3{
+     text-align: center;
+ 
+ }
+ 
+ .forecasttable{
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .forecasttable th, .forecasttable td{
+     width: 5em;
+     text-align: center;
+    
+ }
+
+ /* homepage styling */ 
+
+ .grids2{
+    display: block;
+    margin: auto;
+}
+
+.json{
+    text-align: center;
+    justify-self: center;
+}
+
+.mottos, .years, .pop, .arf{
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+.citiesdiv{
+    display: block;
+    border: #202c39 .5em;
+    background-color: white;
+    margin: auto;        
+    max-width: 20em;       
+    position: relative;
+    /*left: 11em;*/ 
+}
+
+.fimage{
+    width: 100%;
+    
+}
+
+#fh{
+    min-height: 14em;
+}
+
+
+/* Gallery styling */  
+
+.gallery {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: auto;
+    max-width: 1200px;
+    align-items: center;
+    
+}
+
+.photo {
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+}
+
+.figcaption {
+    text-align: center;
+}
+
+/* Storm Center styling */ 
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=submit] {
+    width: 100%;
+    background-color: #266db8;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #202c39;
+  }
+  
+  .fill {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
