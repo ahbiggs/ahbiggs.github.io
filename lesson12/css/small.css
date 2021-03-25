@@ -39,14 +39,14 @@ header {
 }
 
 #logo {
-    width: 150px;
+    width: 100px;
     position: relative;
     background-color: white;
     top: 5px;
     left: 5px; 
     border: 2px white; 
     border-radius: 50%; 
-    
+
   }
 
  .article {
