@@ -42,10 +42,10 @@ header {
     width: 150px;
     position: relative;
     background-color: white;
-    top: 10px;
-    left: 10px; 
+    top: 5px;
+    left: 5px; 
     border: 2px white; 
-    border-radius: 3px;
+    border-radius: 50%;
     box-shadow: 4px 4px 4px black;
   }
 
