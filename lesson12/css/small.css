@@ -90,13 +90,18 @@ font-size: large;
    align-items: center;
    padding: 10px; 
  }
+
+ .sec1 {
+     background-color: #5d737e;
+ }
  
  .sec2 {
-   background-color: #57843C;
+   background-color: #daffef;
  }
  
  .sec3 {
    text-align: center;
+   background-color: #64b6ac;
  }
  .hspec {
    color: black;
