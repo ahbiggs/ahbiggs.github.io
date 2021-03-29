@@ -1,0 +1,374 @@
+
+{
+    "business": [
+    {
+    "name": "Boston Massachussetts",
+    "address": [
+      "100 Hinckley wy",
+      "Belmont MA 02478-2135",
+      "United States"
+    ],
+    "telephone": "(1) 617-993-9993",
+    "email": "BostonTemple@restoration.org",
+    "services": [
+      "Clothing rental available",
+      "No cafeteria available",
+      "No patron housing available",
+      "Distribution center nearby"
+    ],
+    "history": [
+      "Sep 30, 1995: Temple Announced",
+      "Jun 13, 1997: Groundbreaking",
+      "Oct 01, 2000: Dedicated"
+    ],
+    "endowment": [
+      "Hourly sessions from 8:00AM-3:00PM",
+      "and 4:30AM-7:30PM",
+      "Hourly sessions from 7:00AM-7:00PM"
+      ],
+    "baptism": [
+        "8:00AM-10:00AM; 12:00PM-4:00PM;",
+        "and 6:00PM-9:30PM",
+        "10:00AM-12:00PM; and 4:00PM-6:00PM",
+        "7:30AM-12:00PM",
+        "12:00PM-2:30PM"
+    ],
+    "initiatory": [
+        "For initiatory information and",
+        "schedule, please call the temple"
+    ],
+      "sealing": [
+        "For sealing information and",
+        "schedule, please call the temple"
+    ],
+    "closure":[
+      "2018: 12/25",
+      "2019: 1/1; 1/8 - 1/28; 6/6; 7/4;",
+      "7/8 - 7/22; 10/5; 11/27; 11/28;",
+      "12/24; 12/25; 12/31"
+    ],
+    "summary": [  
+      "The Temple Inn and Suite is within",
+      "1.5 miles of this beautiful temple",
+      "at 1776 Freedom Lane.  Shuttle",
+      "services are provided"  
+    ],
+    "long": [
+      42.4111066
+    ],
+    "lat": [
+      -71.1916611
+    ]
+    },
+    {
+    "name": "Hartford Connecticut",
+    "address": [
+      "2 Central Wy",
+      "Farmington CT 06032",
+      "United States"
+    ],
+    "telephone": "(1) 860-773-7200",
+    "email": "HartfordTemple@restoration.org",
+    "services": [
+      "No clothing rental available",
+      "No cafeteria available",
+      "No patron housing available",
+      "Distribution center nearby"
+    ],
+    "history": [
+      "Oct 02, 2010: Temple Announced",
+      "Aug 17, 2016: Groundbreaking",
+      "Nov 20, 2016: Dedicated"
+    ],
+    "endowment": [
+      "Endowment sessions occur twice a day",
+      "at 6:00PM and 7:00PM",
+      "Every hour and a half from 7:00AM-2:30PM"     
+      ],
+      "baptism": [
+  
+        "From 6:00PM-8:00PM on weekdays",
+        "Appointments are preferred",
+        "Families are given priority",      
+        "7:30AM-12:00PM Appointment Required",
+        "12:00PM-2:30PM Appointment Preferred"
+      ],
+      "initiatory": [
+        "For initiatory information and",
+        "schedule, please call the temple"
+      ],
+      "sealing": [
+        "For sealing information and",
+        "schedule, please call the temple"
+      ],
+    "closure":[
+      "2018: 12/25",
+      "2019: 1/1; 6/6; 5/13 - 5/27; 7/4;",
+      "10/5; 11/4 - 11/18; 11/28;",
+      "12/24; 12/25; 12/31"
+    ],
+    "summary": [  
+      "The Temple Inn and Suite is within",
+      "1.5 miles of this beautiful temple",
+      "at 17 Cherry Tree Lane.  Shuttle",
+      "services are provided"
+    ],
+    "long":[
+      41.7378045
+    ],
+    "lat":[
+      41.7378045
+    ]
+    },
+    {
+    "name": "Manhattan New York",
+    "address": [
+      "125 Columbus Ave, Fourth Floor",
+      "New York NY 10023-6514",
+      "United States"
+    ],
+    "telephone": "(1) 917-441-8220",
+    "email": "ManhattanTemple@restoration.org",
+    "services": [
+      "Clothing rental available",
+      "No cafeteria available",
+      "No patron housing available",
+      "Distribution center nearby"
+    ],
+    "history": [
+      "Aug 07, 2002: Temple Announced",
+      "Sep 23, 2002: Groundbreaking",
+      "Jun 13, 2004: Dedicated"
+    ],
+    "endowment": [
+      "6:30AM, 8:00AM, 11:00AM, 12:30PM,",
+      "2:00PM, 6:15PM, and 7:45PM",
+      "Every hour and a half from 7:30AM-5:00PM" 
+    ],
+      "baptism": [
+        "7:00AM-7:45AM; 11:00AM-12:00PM 2:30PM-",
+        "3:30PM; 4:00PM-4:30PM, 6:30PM-7:30PM",
+        "Family Priority not noted",
+        "6:30AM-12:00PM and 1:30PM-4:00PM",
+        "Family Priority not noted"
+      ],
+      "initiatory": [
+        "For initiatory information and",
+        "schedule, please call the temple"
+      ],
+      "sealing": [
+        "For sealing information and",
+        "schedule, please call the temple"
+      ],
+    "closure":[
+      "2018: 12/25",
+      "2019: 1/1; 1/21 - 2/4; 6/6; 7/4;",
+      "7/23 - 10/28; 11/27; 11/28;",
+      "12/24; 12/25; 12/31"
+    ],
+    "summary": [  
+      "The Temple Inn and Suite is within",
+      "7 miles of this beautiful temple",
+      "at 1 Big Apple St. and is located",
+      "within 0.2 miles of a metro station"
+    ],
+    "long": [
+      40.7730408
+    ],
+    "lat":[
+      -73.9838167
+    ]
+    },
+    {
+    "name": "Palmyra New York",
+    "address": [
+      "2720 Temple Rd",
+      "Palmyra NY 14522-9573",
+      "United States"
+    ],
+    "telephone": "(1) 315-597-6001",
+    "email": "PalmyraTemple@restoration.org",
+    "services": [
+      "No clothing rental available",
+      "No cafeteria available",
+      "No patron housing available",
+      "Distribution center nearby"
+    ],
+    "history": [
+      "Feb 21, 1999: Temple Announced",
+      "May 25, 1999: Groundbreaking",
+      "Apr 06, 2000: Dedicated"
+    ],
+    "endowment": [
+      "Sessions are at 6:00AM and 9:00AM",
+      "11:00AM, 6:00PM, 7:30PM",
+      "9:30AM, 11:00AM, 1:30PM, and 3:00PM"
+    ],
+    "baptism": [
+        "8:00AM-10:00AM, 6:00PM-8:00PM",
+        "Appointment is preferred",
+        "Not noted during the weekdays",
+        "10:00AM-12:00PM, 12:00PM-2:00PM, and 2:00PM-4:00PM",
+        "8:00AM-10:00AM"
+      ],
+    "initiatory": [
+        "For initiatory information and",
+        "schedule, please call the temple"
+      ],
+    "sealing": [
+        "For sealing information and",
+        "schedule, please call the temple"
+    ],
+    "closure":[
+      "2018: 12/25",
+      "2019: 1/1; 2/11 - 2/23; 6/6; 7/4;",
+      "9/9 - 9/21; 10/5; 11/28; 12/24;",
+      "12/25; 12/31"
+    ],
+    "summary": [  
+      "The Temple Inn and Suite is within",
+      "walking distance of this beautiful",
+      "temple at 1 Big Apple St. and is located",
+      "just next to the nearest metro station"
+    ],
+    "long": [
+      43.0389764
+    ],
+    "lat":[
+      -77.2392135
+    ]
+    },
+    {
+    "name": "Philadelphia Pennsylvania",
+    "address":
+    [
+       "1739 Vine St",
+       "Philadelphia PA",
+       "United States"
+    ],
+    "telephone": "(1) 315-597-6001",
+    "email": "PalmyraTemple@restoration.org",
+    "services": [
+      "No clothing rental available",
+      "No cafeteria available",
+      "No patron housing available",
+      "Distribution center nearby"
+    ],
+    "history": [
+      "Feb 21, 1999: Temple Announced",
+      "May 25, 1999: Groundbreaking",
+      "Apr 06, 2000: Dedicated"
+    ],
+    "endowment": [
+      "Tuesday - Friday:",
+      "Sessions are at 6:00AM, 9:00AM,",
+      "11:00AM, 6:00PM, 7:30PM",
+      "Saturday:",
+      "9:30AM, 11:00AM, 1:30, 3:00"
+      
+      ],
+      "baptism": [
+        "Tuesday-Friday:",
+        "By Appointment: 8:00AM - 10:00AM,",
+        "and 6:00PM - 8:00PM",
+        "Saturday:",
+        "By Appointment: 10:00AM - 12:00PM,",
+        "12:00PM - 2:00PM, 2:00PM - 4:00PM",
+        "Family Priority Time: 8:00AM - 10:00AM"
+      ],
+      "initiatory": [
+        "For initiatory information and",
+        "schedule, please call the temple"
+      ],
+      "sealing": [
+        "For sealing information and",
+        "schedule, please call the temple"
+      ],
+    "closure":[
+      "2018: 12/25",
+      "2019: 1/1; 2/11 - 2/23; 6/6; 7/4;",
+      "9/9 - 9/21; 10/5; 11/28; 12/24;",
+      "12/25; 12/31"
+    ],
+    "summary": [  
+      "The Temple Inn and Suite is within",
+      "walking distance of this beautiful",
+      "temple at 1 Big Apple St. and is",
+      "located within 0.2 miles of a metro",
+      "station"
+    ],
+    "long": [
+      43.0389764
+    ],
+    "lat":[
+      -77.2392135
+    ]
+    },
+    {
+    "name": "Washington D.C",
+    "address":
+    [
+      "9900 Stoneybrook Dr",
+      "Kensington MD 20895-3199",
+      "United States"
+    ],
+    "telephone": "(1) 315-597-6001",
+    "email": "PalmyraTemple@restoration.org",
+    "services": [
+      "No clothing rental available",
+      "No cafeteria available",
+      "No patron housing available",
+      "Distribution center nearby"
+    ],
+    "history": [
+      "Feb 21, 1999: Temple Announced",
+      "May 25, 1999: Groundbreaking",
+      "Apr 06, 2000: Dedicated"
+    ],
+      "endowment": [
+      "Tuesday - Friday:",
+      "Sessions are at 6:00AM, 9:00AM,",
+      "11:00AM, 6:00PM, 7:30PM",
+      "Saturday:",
+      "9:30AM, 11:00AM, 1:30, 3:00"
+      
+      ],
+      "baptism": [
+        "Tuesday-Friday:",
+        "By Appointment: 8:00AM - 10:00AM,",
+        "and 6:00PM - 8:00PM",
+        "Saturday:",
+        "By Appointment: 10:00AM - 12:00PM,",
+        "12:00PM - 2:00PM, 2:00PM - 4:00PM",
+        "Family Priority Time: 8:00AM - 10:00AM"
+      ],
+      "initiatory": [
+        "For initiatory information and",
+        "schedule, please call the temple"
+      ],
+      "sealing": [
+        "For sealing information and",
+        "schedule, please call the temple"
+      ],
+    "closure":[
+      "2018: 12/25",
+      "2019: 1/1; 2/11 - 2/23; 6/6; 7/4;",
+      "9/9 - 9/21; 10/5; 11/28; 12/24;",
+      "12/25; 12/31"
+    ],
+    "summary": [  
+      "The Temple Inn and Suite is within",
+      "walking distance of this beautiful",
+      "temple at 1 Big Apple St. and is",
+      "located within 0.2 miles of a metro",
+      "station"
+    ],
+    "long": [
+      43.0389764
+    ],
+    "lat":[
+      -77.2392135
+    ]
+    }
+    ]
+    }
