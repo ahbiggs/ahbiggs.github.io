@@ -51,13 +51,6 @@ header {
 
   /* Home Page Styling */ 
 
- .article {
-	background-color: #202c39;
-    padding: 25px;
-    margin-bottom: 15px;
-    color: white
-  }
-
 
 main, footer
 {
@@ -90,6 +83,38 @@ color: white;
 font-size: large; 
 }
 
+.sec1, .sec2, footer {
+    display: flex;
+   flex-flow: row wrap;
+   justify-content: center;
+   align-items: center;
+   padding: 10px; 
+ }
+ 
+ .sec2 {
+   background-color: #57843C;
+ }
+ 
+ .sec3 {
+   text-align: center;
+ }
+ .hspec {
+   color: black;
+ }
+ 
+ img {
+   max-width: 100%;
+ }
+ 
+ .img1, .img2 {  
+   width: 450px;
+   height: 300px;
+   border-radius: 3px;
+   box-shadow: 4px 4px 4px black;
+   border: 1px solid #ccc;
+   padding: 10px;
+ }
+ 
 /* Small/Phone View ***************/
 nav {
 	margin: auto;
@@ -325,8 +350,9 @@ footer {
     margin: auto;        
     max-width: 20em;       
     position: relative;
-    /*left: 11em;*/ 
-}
+    /*left: 11em;
+} */ 
+
 
 /*.fimage{
     width: 100%;
