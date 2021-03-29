@@ -35,27 +35,36 @@
     <h2>Home</h2>
 
     <img class="hero" src="/lesson12/images/drapersmall.webp" srcset="/lesson12/images/drapersmall.webp 510w, /lesson12/images/drapermedium.webpg 815w, /lesson12/images/draperlarge.webp 1000w" sizes="100vw" alt="hero image of sky">
-    <div class="summary">
+    <div class="weather">
         <section class="summarytable">
-              <h3>Contact Information</h3>
-              <table>
-                  <tbody>
-                      <tr>
-                          <td class="r1">Phone:</td>
-                          <td class="r2">(555) 555-555</td>
-                      </tr>
-                      <tr>
-                          <td class="r1">Email:</td>
-                          <td class="r2">btw@contact.com</td>
-                      </tr>
-                      <tr>
-                          <td class="r1">Location:</td>
-                          <td class="r2">555 S. Raven Rd.</td>
-                      </tr>
-                  </tbody>
-              </table>
-          </section>
-      </div>
+            <h3>Current Conditions</h3>
+            <table>
+                <tbody>
+                    <tr>
+                        <td class="r1">Currently:</td>
+                        <td class="r2" id="current"></td>                       
+                    </tr> 
+                    <tr>
+                        <td class="r1">Temperature:</td>
+                        <td class="r2"><span id="temp"></span> °F</td>
+                    </tr>
+                    <tr>
+                        <td class="r1">Humidity:</td>
+                        <td class="r2"><span id="hum"></span>%</td>
+                    </tr>                        
+                    <tr>
+                        <td class="r1">Wind Speed:</td>
+                        <td class="r2"><span id="ws"></span> mph</td>
+                    </tr> 
+                    <tr>
+                        <td class="r1">Wind Chill:</td>
+                        <td class="r2"><span id="wc"></span></td>
+                    </tr> 
+                </tbody>
+            </table>
+        </section>
+
+    </div>
     <section class="grids2">
         <div class="citiesdiv">
             <div class="json">
