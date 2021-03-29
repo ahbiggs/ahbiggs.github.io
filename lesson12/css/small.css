@@ -114,6 +114,12 @@ font-size: large;
    border: 1px solid #ccc;
    padding: 10px;
  }
+
+ .leftcol, .rightcol {
+    max-width: 48%;
+    flex: 1 0 15em;
+    padding: 10px;
+  }
  
 /* Small/Phone View ***************/
 nav {
