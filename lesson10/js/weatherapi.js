@@ -1,5 +1,5 @@
 var weatherRequest = new XMLHttpRequest();
-var apiURL = 'http://api.openweathermap.org/data/2.5/weather?id=5774001&appid=97966e710b6cd9867a0e383cc26cf629';
+var apiURL = 'http://api.openweathermap.org/data/2.5/weather?id=5774001&units=imperial&appid=97966e710b6cd9867a0e383cc26cf629';
 
 
 
@@ -14,7 +14,7 @@ weatherRequest.onload = function () {
     var weatherString = JSON.stringify(weatherRequest.response);
 
     var temper = weatherData.weather[0].main;
-    document.getElementById('currentTemp').innerHTML = weatherData.main.temp;
+    document.getElementById('currentTemp').innerHTML = temp.toFixed(0);
     document.getElementById('hum').innerHTML = weatherData.main.humidity;
     document.getElementById('ws').innerHTML = weatherData.wind.speed;
     document.getElementById('soc1').innerHTML = temper;
