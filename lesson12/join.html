@@ -76,6 +76,46 @@
           </div>
       </div>
 
+      <div class="fill">
+        <form method="get" action="/lesson11/thanks.html">
+            <h2>Submit the following information:</h2>
+            
+            <label>Full Name (Last Name, First Name)*:<br>
+            <input type="text" name="name" pattern="[A-Za-z ]{5,}" required></label><br><br>
+            <label>Title<br>
+            <input type="title" name="title" placeholder="Mr., Mrs., Miss., etc..."></label><br><br>
+            <label>Email Address*:<br>
+            <input type="email" name="email" placeholder="johndoe@gmail.com" required></label><br><br>
+            <label>Phone Number*:<br>
+            <input type="tel" name="phone" required></label><br><br>
+            <label>Business Name*:<br>
+            <input type="text" name="bname" pattern="[A-Za-z ]{5,}" required></label><br><br>
+            <label>Business Address:<br>
+            <input type="text" name="address" pattern="[A-Za-z ]{5,}"></label><br><br>
+            <label>Business Website:<br>
+            <input type="text" name="website" pattern="[A-Za-z ]{5,}"></label><br><br>
+            <label>
+                <textarea name="comment" rows="4" cols="30" placeholder="Business description..."></textarea>
+            </label>
+            <label>Membership Level<br>
+            <select name="level">
+                <option value="">Select Level</option>
+                <option value="non-profit">Non-profit</option>
+                <option value="bronze">Bronze</option>
+                <option value="silver">Silver</option>
+                <option value="gold">Gold</option>
+            </select></label><br><br>
+                     
+    
+            <label>
+                <textarea name="comment" rows="4" cols="30" placeholder="Additional Comments...."></textarea>
+            </label>
+                
+            
+            <input type="submit" value="Submit" class="ibutton">
+        </form>
+        </div>
+
          
 
     <footer>
