@@ -12,9 +12,9 @@ fetch(apiURL)
     document.getElementById('temp').textContent = temp.toFixed(0);
     document.getElementById('hum').textContent = jsObject.main.humidity;
     document.getElementById('ws').textContent = ws.toFixed(0);
-    document.getElementById('wc').textContent = windChill(temperature, windspeed).toFixed(0);
+   
     
 
-    
+
 
 });
