@@ -125,6 +125,14 @@ font-size: large;
     flex: 1 0 15em;
     padding: 10px;
   }
+
+  .summarytable {
+      align-items: center;
+  }
+
+  .forecast {
+      align-items: center;
+  }
  
 /* Small/Phone View ***************/
 nav {
