@@ -83,6 +83,22 @@ h6 {
     font-size: medium;
 }
 
+h7 {
+    color: #cd7f32;
+    
+}
+
+h8 {
+    color: silver;
+
+}
+
+h9 {
+    color: gold;
+
+}
+
+
 .p {
 color: white;
 font-size: large; 
