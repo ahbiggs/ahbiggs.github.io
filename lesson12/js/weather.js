@@ -6,14 +6,15 @@ fetch(apiURL)
 
     temp = jsObject.main.temp;
     ws = jsObject.wind.speed;
-    hum = jsObject.main.humidity;
-    current = jsObject.weather.description;
+   
     
     document.getElementById('current').textContent = jsObject.weather[0].description;
     document.getElementById('temp').textContent = temp.toFixed(0);
-    document.getElementById('wc').textContent = windChill(temperature, windspeed).toFixed(0);
     document.getElementById('hum').textContent = jsObject.main.humidity;
     document.getElementById('ws').textContent = ws.toFixed(0);
+    document.getElementById('wc').textContent = windChill(temperature, windspeed).toFixed(0);
+    
+    
 
 
 });
