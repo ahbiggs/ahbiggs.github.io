@@ -14,7 +14,7 @@ fetch(apiURL)
     document.getElementById('ws').textContent = ws.toFixed(0);
     document.getElementById('wc').textContent = windChill(temperature, windspeed).toFixed(0);
     
-    
 
+    
 
 });
