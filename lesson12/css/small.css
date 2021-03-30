@@ -188,8 +188,9 @@ footer {
 /* Create three equal columns that floats next to each other */
 .column {
     float: left;
-    width: 33.33%;
+    width: 20%;
     padding: 10px;
+    margin: auto;
   }
   
   /* Clear floats after the columns */
@@ -199,7 +200,7 @@ footer {
     clear: both;
   }
 
-  @media screen and (max-width: 1000px) {
+  @media screen and (max-width: 600px) {
     .column {
       width: 100%;
     }
