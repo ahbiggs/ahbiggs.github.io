@@ -19,7 +19,6 @@ footer {
 
 header {
     background-image: url("/lesson12/images/draperlarge.webp");
-    background-color: #283845; opacity: .8;
     display: flex;
     flex-flow: column;
     padding: 10px;
