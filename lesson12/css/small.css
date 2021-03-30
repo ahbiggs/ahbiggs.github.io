@@ -19,24 +19,24 @@ footer {
 
 header {
     background-image: url("/lesson12/images/draperlarge.webp");
-    background-color: #283845; opacity: .4;
+    background-color: #283845; opacity: .8;
     display: flex;
     flex-flow: column;
     padding: 10px;
     margin: 0em;
     border: 0em;
 	text-align: center;
-    color: white;
+    color: #283845;
     margin: auto;
 }
 .headertext {
     display: inline-block; 
     padding: 0em;
-    color: white;
+    color: #283845;
 }
 .subheading {
     font-size: 1.1em;
-    color: white;
+    color: #283845;
     padding-left: 0em;
 }
 
