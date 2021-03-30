@@ -11,7 +11,7 @@ body {
 
 .alert {
     padding: 20px;
-    background-color: #f44336;
+    background-color: #266db8;
     color: white;
     text-align: center;
   }
@@ -30,7 +30,7 @@ body {
   .closebtn:hover {
     color: black;
   }
-  
+
 footer {
     background-color: #daffef;
     display: flex;
