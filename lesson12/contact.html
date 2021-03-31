@@ -35,6 +35,11 @@
     
     <h2>Contact Us!</h2>
 
+    <h3>My Google Maps Demo</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+
+   
     
          
 
@@ -46,9 +51,12 @@
            <p id="last"></p>
            </footer>
    
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCCWL4CRw8IC0vaVpn7lEeP70mDyPwNqAA&callback=initMap">
-    </script>
+     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+     <script
+     src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=&v=weekly"
+     async
+   ></script>
+
 
     <script src="/lesson12/js/map.js"></script>
     <script src="/lesson12/js/script.js"></script>
