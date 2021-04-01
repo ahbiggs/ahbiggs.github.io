@@ -2,12 +2,10 @@
   "prophets": [
     {
       "name": "Lucas Marc Design",
-      "lastname": "Smith",
-      "birthdate": "23 December 1805",
-      "death": "27 June 1844",
+      "phone": "801-471-3559",
       "length": 14,
       "order": 1,
-      "birthplace": "Vermont",
+      "website": "lucasmarc.com",
       "numofchildren": 11,
       "imageurl": "/lesson12/images/lucasmarc.JPG"
     },
@@ -88,6 +86,6 @@
       "numofchildren": 3,
       "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/george-albert-smith-82914-gallery.jpg"
     }
-    
+
   ]
 }
