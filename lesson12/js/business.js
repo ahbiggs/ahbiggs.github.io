@@ -12,10 +12,12 @@ fetch(requestURL)
         let card = document.createElement('section');
         let h2 = document.createElement('h2');
         let p = document.createElement('p');
+        let w = document.createElement('w');
         let image = document.createElement('img');
 
         h2.textContent = prophets[i].name;
-        p.textContent = 'Phone Number: ' + prophets[i].phone + ' ' + 'Website: ' + prophets[i].website;
+        p.textContent = 'Phone Number: ' + prophets[i].phone;
+        w.textcontent = 'Website: ' + prophets[i].website;
         image.setAttribute('src', prophets[i].imageurl);
 
         card.appendChild(h2);
