@@ -6,17 +6,17 @@ fetch(requestURL)
   })
   .then(function (jsonObject) {
     console.table(jsonObject);
-    const prophets = jsonObject['prophets'];
+    const business = jsonObject['business'];
 
-    for (let i = 0; i < prophets.length; i++ ) {
+    for (let i = 0; i < business.length; i++ ) {
         let card = document.createElement('section');
         let h2 = document.createElement('h2');
         let p = document.createElement('p');
         let image = document.createElement('img');
 
-        h2.textContent = prophets[i].name;
-        p.textContent = 'Phone Number: ' + prophets[i].phone + ' ' + 'Website: ' + prophets[i].website;
-        image.setAttribute('src', prophets[i].imageurl);
+        h2.textContent = business[i].name;
+        p.textContent = 'Phone Number: ' + business[i].phone + ' ' + 'Website: ' + business[i].website;
+        image.setAttribute('src', business[i].imageurl);
 
         card.appendChild(h2);
         card.appendChild(p);
