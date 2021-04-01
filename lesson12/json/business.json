@@ -1,374 +1,183 @@
-
 {
-    "business": [
+  "business": [
     {
-    "name": "Boston Massachussetts",
-    "address": [
-      "100 Hinckley wy",
-      "Belmont MA 02478-2135",
-      "United States"
-    ],
-    "telephone": "(1) 617-993-9993",
-    "email": "BostonTemple@restoration.org",
-    "services": [
-      "Clothing rental available",
-      "No cafeteria available",
-      "No patron housing available",
-      "Distribution center nearby"
-    ],
-    "history": [
-      "Sep 30, 1995: Temple Announced",
-      "Jun 13, 1997: Groundbreaking",
-      "Oct 01, 2000: Dedicated"
-    ],
-    "endowment": [
-      "Hourly sessions from 8:00AM-3:00PM",
-      "and 4:30AM-7:30PM",
-      "Hourly sessions from 7:00AM-7:00PM"
-      ],
-    "baptism": [
-        "8:00AM-10:00AM; 12:00PM-4:00PM;",
-        "and 6:00PM-9:30PM",
-        "10:00AM-12:00PM; and 4:00PM-6:00PM",
-        "7:30AM-12:00PM",
-        "12:00PM-2:30PM"
-    ],
-    "initiatory": [
-        "For initiatory information and",
-        "schedule, please call the temple"
-    ],
-      "sealing": [
-        "For sealing information and",
-        "schedule, please call the temple"
-    ],
-    "closure":[
-      "2018: 12/25",
-      "2019: 1/1; 1/8 - 1/28; 6/6; 7/4;",
-      "7/8 - 7/22; 10/5; 11/27; 11/28;",
-      "12/24; 12/25; 12/31"
-    ],
-    "summary": [  
-      "The Temple Inn and Suite is within",
-      "1.5 miles of this beautiful temple",
-      "at 1776 Freedom Lane.  Shuttle",
-      "services are provided"  
-    ],
-    "long": [
-      42.4111066
-    ],
-    "lat": [
-      -71.1916611
-    ]
+      "name": "Lucas Marc Design",
+      "phone": "(801) 471-3559",
+      "address": "802 E. Bamberger Dr. American Fork, Utah 84003",
+      "website": "lucasmarc.com",
+      "logoLocation": "/lesson12/images/lucasmarc.JPG"
     },
     {
-    "name": "Hartford Connecticut",
-    "address": [
-      "2 Central Wy",
-      "Farmington CT 06032",
-      "United States"
-    ],
-    "telephone": "(1) 860-773-7200",
-    "email": "HartfordTemple@restoration.org",
-    "services": [
-      "No clothing rental available",
-      "No cafeteria available",
-      "No patron housing available",
-      "Distribution center nearby"
-    ],
-    "history": [
-      "Oct 02, 2010: Temple Announced",
-      "Aug 17, 2016: Groundbreaking",
-      "Nov 20, 2016: Dedicated"
-    ],
-    "endowment": [
-      "Endowment sessions occur twice a day",
-      "at 6:00PM and 7:00PM",
-      "Every hour and a half from 7:00AM-2:30PM"     
-      ],
-      "baptism": [
-  
-        "From 6:00PM-8:00PM on weekdays",
-        "Appointments are preferred",
-        "Families are given priority",      
-        "7:30AM-12:00PM Appointment Required",
-        "12:00PM-2:30PM Appointment Preferred"
-      ],
-      "initiatory": [
-        "For initiatory information and",
-        "schedule, please call the temple"
-      ],
-      "sealing": [
-        "For sealing information and",
-        "schedule, please call the temple"
-      ],
-    "closure":[
-      "2018: 12/25",
-      "2019: 1/1; 6/6; 5/13 - 5/27; 7/4;",
-      "10/5; 11/4 - 11/18; 11/28;",
-      "12/24; 12/25; 12/31"
-    ],
-    "summary": [  
-      "The Temple Inn and Suite is within",
-      "1.5 miles of this beautiful temple",
-      "at 17 Cherry Tree Lane.  Shuttle",
-      "services are provided"
-    ],
-    "long":[
-      41.7378045
-    ],
-    "lat":[
-      41.7378045
-    ]
+      "name": "Homestar Windows and Doors",
+      "phone": "(801) 770-4138",
+      "address": "8724 S. 700 E. Sandy, Utah 84070",
+      "website": "homestarwindowsutah.com",
+      "logoLocation": "/lesson12/images/homestar.JPG"
     },
     {
-    "name": "Manhattan New York",
-    "address": [
-      "125 Columbus Ave, Fourth Floor",
-      "New York NY 10023-6514",
-      "United States"
-    ],
-    "telephone": "(1) 917-441-8220",
-    "email": "ManhattanTemple@restoration.org",
-    "services": [
-      "Clothing rental available",
-      "No cafeteria available",
-      "No patron housing available",
-      "Distribution center nearby"
-    ],
-    "history": [
-      "Aug 07, 2002: Temple Announced",
-      "Sep 23, 2002: Groundbreaking",
-      "Jun 13, 2004: Dedicated"
-    ],
-    "endowment": [
-      "6:30AM, 8:00AM, 11:00AM, 12:30PM,",
-      "2:00PM, 6:15PM, and 7:45PM",
-      "Every hour and a half from 7:30AM-5:00PM" 
-    ],
-      "baptism": [
-        "7:00AM-7:45AM; 11:00AM-12:00PM 2:30PM-",
-        "3:30PM; 4:00PM-4:30PM, 6:30PM-7:30PM",
-        "Family Priority not noted",
-        "6:30AM-12:00PM and 1:30PM-4:00PM",
-        "Family Priority not noted"
-      ],
-      "initiatory": [
-        "For initiatory information and",
-        "schedule, please call the temple"
-      ],
-      "sealing": [
-        "For sealing information and",
-        "schedule, please call the temple"
-      ],
-    "closure":[
-      "2018: 12/25",
-      "2019: 1/1; 1/21 - 2/4; 6/6; 7/4;",
-      "7/23 - 10/28; 11/27; 11/28;",
-      "12/24; 12/25; 12/31"
-    ],
-    "summary": [  
-      "The Temple Inn and Suite is within",
-      "7 miles of this beautiful temple",
-      "at 1 Big Apple St. and is located",
-      "within 0.2 miles of a metro station"
-    ],
-    "long": [
-      40.7730408
-    ],
-    "lat":[
-      -73.9838167
-    ]
+      "name": "John",
+      "lastname": "Taylor",
+      "birthdate": "01 November 1808",
+      "death": "25 July 1887",
+      "length": 6,
+      "order": 3,
+      "birthplace": "England",
+      "numofchildren": 34,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/john-taylor-82909-gallery.jpg"
     },
     {
-    "name": "Palmyra New York",
-    "address": [
-      "2720 Temple Rd",
-      "Palmyra NY 14522-9573",
-      "United States"
-    ],
-    "telephone": "(1) 315-597-6001",
-    "email": "PalmyraTemple@restoration.org",
-    "services": [
-      "No clothing rental available",
-      "No cafeteria available",
-      "No patron housing available",
-      "Distribution center nearby"
-    ],
-    "history": [
-      "Feb 21, 1999: Temple Announced",
-      "May 25, 1999: Groundbreaking",
-      "Apr 06, 2000: Dedicated"
-    ],
-    "endowment": [
-      "Sessions are at 6:00AM and 9:00AM",
-      "11:00AM, 6:00PM, 7:30PM",
-      "9:30AM, 11:00AM, 1:30PM, and 3:00PM"
-    ],
-    "baptism": [
-        "8:00AM-10:00AM, 6:00PM-8:00PM",
-        "Appointment is preferred",
-        "Not noted during the weekdays",
-        "10:00AM-12:00PM, 12:00PM-2:00PM, and 2:00PM-4:00PM",
-        "8:00AM-10:00AM"
-      ],
-    "initiatory": [
-        "For initiatory information and",
-        "schedule, please call the temple"
-      ],
-    "sealing": [
-        "For sealing information and",
-        "schedule, please call the temple"
-    ],
-    "closure":[
-      "2018: 12/25",
-      "2019: 1/1; 2/11 - 2/23; 6/6; 7/4;",
-      "9/9 - 9/21; 10/5; 11/28; 12/24;",
-      "12/25; 12/31"
-    ],
-    "summary": [  
-      "The Temple Inn and Suite is within",
-      "walking distance of this beautiful",
-      "temple at 1 Big Apple St. and is located",
-      "just next to the nearest metro station"
-    ],
-    "long": [
-      43.0389764
-    ],
-    "lat":[
-      -77.2392135
-    ]
+      "name": "Wilford",
+      "lastname": "Woodruff",
+      "birthdate": "01 March 1807",
+      "death": "02 September 1898",
+      "length": 9,
+      "order": 4,
+      "birthplace": "Connecticut",
+      "numofchildren": 34,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/wilford-woodruff-82910-gallery.jpg"
     },
     {
-    "name": "Philadelphia Pennsylvania",
-    "address":
-    [
-       "1739 Vine St",
-       "Philadelphia PA",
-       "United States"
-    ],
-    "telephone": "(1) 315-597-6001",
-    "email": "PalmyraTemple@restoration.org",
-    "services": [
-      "No clothing rental available",
-      "No cafeteria available",
-      "No patron housing available",
-      "Distribution center nearby"
-    ],
-    "history": [
-      "Feb 21, 1999: Temple Announced",
-      "May 25, 1999: Groundbreaking",
-      "Apr 06, 2000: Dedicated"
-    ],
-    "endowment": [
-      "Tuesday - Friday:",
-      "Sessions are at 6:00AM, 9:00AM,",
-      "11:00AM, 6:00PM, 7:30PM",
-      "Saturday:",
-      "9:30AM, 11:00AM, 1:30, 3:00"
-      
-      ],
-      "baptism": [
-        "Tuesday-Friday:",
-        "By Appointment: 8:00AM - 10:00AM,",
-        "and 6:00PM - 8:00PM",
-        "Saturday:",
-        "By Appointment: 10:00AM - 12:00PM,",
-        "12:00PM - 2:00PM, 2:00PM - 4:00PM",
-        "Family Priority Time: 8:00AM - 10:00AM"
-      ],
-      "initiatory": [
-        "For initiatory information and",
-        "schedule, please call the temple"
-      ],
-      "sealing": [
-        "For sealing information and",
-        "schedule, please call the temple"
-      ],
-    "closure":[
-      "2018: 12/25",
-      "2019: 1/1; 2/11 - 2/23; 6/6; 7/4;",
-      "9/9 - 9/21; 10/5; 11/28; 12/24;",
-      "12/25; 12/31"
-    ],
-    "summary": [  
-      "The Temple Inn and Suite is within",
-      "walking distance of this beautiful",
-      "temple at 1 Big Apple St. and is",
-      "located within 0.2 miles of a metro",
-      "station"
-    ],
-    "long": [
-      43.0389764
-    ],
-    "lat":[
-      -77.2392135
-    ]
+      "name": "Lorenzo",
+      "lastname": "Snow",
+      "birthdate": "03 April 1814",
+      "death": "19 October 1901",
+      "length": 3,
+      "order": 5,
+      "birthplace": "Ohio",
+      "numofchildren": 42,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/lorenzo-snow-82911-gallery.jpg"
     },
     {
-    "name": "Washington D.C",
-    "address":
-    [
-      "9900 Stoneybrook Dr",
-      "Kensington MD 20895-3199",
-      "United States"
-    ],
-    "telephone": "(1) 315-597-6001",
-    "email": "PalmyraTemple@restoration.org",
-    "services": [
-      "No clothing rental available",
-      "No cafeteria available",
-      "No patron housing available",
-      "Distribution center nearby"
-    ],
-    "history": [
-      "Feb 21, 1999: Temple Announced",
-      "May 25, 1999: Groundbreaking",
-      "Apr 06, 2000: Dedicated"
-    ],
-      "endowment": [
-      "Tuesday - Friday:",
-      "Sessions are at 6:00AM, 9:00AM,",
-      "11:00AM, 6:00PM, 7:30PM",
-      "Saturday:",
-      "9:30AM, 11:00AM, 1:30, 3:00"
-      
-      ],
-      "baptism": [
-        "Tuesday-Friday:",
-        "By Appointment: 8:00AM - 10:00AM,",
-        "and 6:00PM - 8:00PM",
-        "Saturday:",
-        "By Appointment: 10:00AM - 12:00PM,",
-        "12:00PM - 2:00PM, 2:00PM - 4:00PM",
-        "Family Priority Time: 8:00AM - 10:00AM"
-      ],
-      "initiatory": [
-        "For initiatory information and",
-        "schedule, please call the temple"
-      ],
-      "sealing": [
-        "For sealing information and",
-        "schedule, please call the temple"
-      ],
-    "closure":[
-      "2018: 12/25",
-      "2019: 1/1; 2/11 - 2/23; 6/6; 7/4;",
-      "9/9 - 9/21; 10/5; 11/28; 12/24;",
-      "12/25; 12/31"
-    ],
-    "summary": [  
-      "The Temple Inn and Suite is within",
-      "walking distance of this beautiful",
-      "temple at 1 Big Apple St. and is",
-      "located within 0.2 miles of a metro",
-      "station"
-    ],
-    "long": [
-      43.0389764
-    ],
-    "lat":[
-      -77.2392135
-    ]
+      "name": "Joseph F.",
+      "lastname": "Smith",
+      "birthdate": "12 November 1838",
+      "death": "19 November 1918",
+      "length": 17,
+      "order": 6,
+      "birthplace": "Missouri",
+      "numofchildren": 48,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/joseph-f-smith-82912-gallery.jpg"
+    },
+    {
+      "name": "Heber J.",
+      "lastname": "Grant",
+      "birthdate": "22 November 1856",
+      "death": "14 May 1945",
+      "length": 23,
+      "order": 7,
+      "birthplace": "Utah",
+      "numofchildren": 12,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/heber-j-grant-82913-gallery.jpg"
+    },
+    {
+      "name": "George A.",
+      "lastname": "Smith",
+      "birthdate": "4 April 1870",
+      "death": "4 April 1951",
+      "length": 6,
+      "order": 8,
+      "birthplace": "Utah",
+      "numofchildren": 3,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/george-albert-smith-82914-gallery.jpg"
+    },
+    {
+      "name": "David O.",
+      "lastname": "McKay",
+      "birthdate": "8 September 1873",
+      "death": "18 January 1970",
+      "length": 19,
+      "order": 9,
+      "birthplace": "Utah",
+      "numofchildren": 7,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/david-o-mckay-82915-gallery.jpg"
+    },
+    {
+      "name": "Joseph Fielding",
+      "lastname": "Smith",
+      "birthdate": "19 July 1876",
+      "death": "2 July 1972",
+      "length": 1,
+      "order": 10,
+      "birthplace": "Utah",
+      "numofchildren": 11,
+      "imageurl": "https://media.ldscdn.org/images/media-library/teachings-of-presidents-of-the-church/joseph-fielding-smith/joseph-fielding-smith-82916-gallery.jpg"
+    },
+    {
+      "name": "Harold B.",
+      "lastname": "Lee",
+      "birthdate": "28 March 1899",
+      "death": "26 December 1973",
+      "length": 1,
+      "order": 11,
+      "birthplace": "Idaho",
+      "numofchildren": 2,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/harold-b-lee-37763-gallery.jpg"
+    },
+    {
+      "name": "Spencer W.",
+      "lastname": "Kimball",
+      "birthdate": "28 March 1895",
+      "death": "5 November 1985",
+      "length": 12,
+      "order": 12,
+      "birthplace": "Utah",
+      "numofchildren": 4,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/spencer-w-kimball-82918-gallery.jpg"
+    },
+    {
+      "name": "Ezra Taft",
+      "lastname": "Benson",
+      "birthdate": "4 August 1899",
+      "death": "30 May 1994",
+      "length": 9,
+      "order": 13,
+      "birthplace": "Idaho",
+      "numofchildren": 6,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/lds-president-ezra-taft-benson-83244-gallery.jpg"
+    },
+    {
+      "name": "Howard W.",
+      "lastname": "Hunter",
+      "birthdate": "14 November 1907",
+      "death": "3 March 1995",
+      "length": 1,
+      "order": 14,
+      "birthplace": "Idaho",
+      "numofchildren": 3,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/howard-w-hunter-82921-gallery.jpg"
+    },
+    {
+      "name": "Gordon B.",
+      "lastname": "Hinckley",
+      "birthdate": "23 June 1910",
+      "death": "27 January 2008",
+      "length": 13,
+      "order": 15,
+      "birthplace": "Utah",
+      "numofchildren": 5,
+      "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/lds-president-gordon-b-hinckley-83335-gallery.jpg"
+    },
+    {
+      "name": "Thomas S.",
+      "lastname": "Monson",
+      "birthdate": "21 August 1927",
+      "death": "2 January 2018",
+      "length": 10,
+      "order": 16,
+      "birthplace": "Utah",
+      "numofchildren": 3,
+      "imageurl": "https://media.ldscdn.org/images/media-library/church-leadership/first-presidency-and-quorum-of-the-twelve-apostles/president-thomas-s-monson-lds-560823-gallery.jpg"
+    },
+    {
+      "name": "Russell M.",
+      "lastname": "Nelson",
+      "birthdate": "9 September 1924",
+      "death": null,
+      "length": 2,
+      "order": 17,
+      "birthplace": "Utah",
+      "numofchildren": 10,
+      "imageurl": "https://media.ldscdn.org/images/media-library/church-leadership/first-presidency-and-quorum-of-the-twelve-apostles/russell-nelson-official-portrait-2018-2044670-gallery.jpg"
     }
-    ]
-    }
+  ]
+}
