@@ -239,6 +239,61 @@ footer {
   width: 100%;
   /* The width is the width of the web page */
 }
+
+/* Directory Styling*/ 
+
+h1, h2{
+    text-align: center;
+    color: purple;
+}
+
+footer {
+    align-items: center;
+}
+
+.cards section {
+
+    background-color: rgb(189, 124, 189); 
+    color: rgb(70, 4, 59);
+    padding: 20px;
+    margin: 10px 20px;
+    text-align: center;
+}
+
+.cards {
+    display: block;
+
+}
+
+div {
+    background-color: lightgrey;
+    box-shadow: 2px 2px black;
+}
+
+.cards img {
+    align-items: center;
+    box-shadow: 2px 2px black;
+    height: 300px;
+    width: 300px;
+}
+
+@media only screen and (min-width: 617px) {
+
+    .cards {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    img {
+        max-width: 100%;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .cards {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
   
 
 /*.summary {
