@@ -15,8 +15,8 @@ fetch(requestURL)
         let image = document.createElement('img');
 
         h2.textContent = business[i].name + ' ' + business[i].phone;
-        p.textContent = 'Date of Birth: ' + prophets[i].birthdate + ' ' + 'Place of Birth: ' + prophets[i].birthplace;
-        image.setAttribute('src', prophets[i].imageurl);
+        p.textContent = 'Address: ' + business[i].address + ' ' + 'Website: ' + business[i].website;
+        image.setAttribute('src', prophets[i].logolocation);
 
         card.appendChild(h2);
         card.appendChild(p);
