@@ -260,8 +260,8 @@ footer {
 .cards img {
     align-items: center;
     box-shadow: 2px 2px black;
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
 }
 
 @media only screen and (min-width: 617px) {
