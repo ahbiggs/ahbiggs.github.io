@@ -244,12 +244,14 @@ footer {
 
 
 .cards section {
-
-    background-color: rgb(189, 124, 189); 
-    color: rgb(70, 4, 59);
+  
     padding: 20px;
     margin: 10px 20px;
     text-align: center;
+    border-radius: 25px; 
+    border: 2px solid #daffef;
+    color: #5d737e;
+
 }
 
 .cards {
