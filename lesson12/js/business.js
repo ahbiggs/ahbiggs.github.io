@@ -15,7 +15,7 @@ fetch(requestURL)
         let image = document.createElement('img');
 
         h2.textContent = business[i].name;
-        p.textContent = 'Phone Number: ' + business[i].phone + ' ' + 'Website: ' + business[i].website;
+        p.textContent = 'Phone: ' + business[i].phone + ' ' + 'Website: ' + business[i].website;
         image.setAttribute('src', business[i].imageurl);
 
         card.appendChild(h2);
