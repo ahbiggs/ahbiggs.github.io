@@ -140,7 +140,6 @@ font-size: large;
    height: 200px;
    border-radius: 3px;
    box-shadow: 4px 4px 4px black;
-   /*border: 1px solid #ccc;*/ 
    padding: 10px;
  }
 
@@ -163,6 +162,7 @@ nav {
 	margin: auto;
     background-color: #202c39;
     max-width: 1200px;
+    border-radius: 25px;
 }
 .navigation {
 	list-style: none;
@@ -515,7 +515,7 @@ footer {
 input[type=text], select {
     width: 100%;
     padding: 12px 20px;
-    margin: 8px 0;
+    margin: auto;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -527,7 +527,7 @@ input[type=text], select {
     background-color: #266db8;
     color: white;
     padding: 14px 20px;
-    margin: 8px 0;
+    margin: auto;
     border: none;
     border-radius: 4px;
     cursor: pointer;
