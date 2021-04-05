@@ -192,6 +192,26 @@ nav {
   border-radius: 25px;
 }
 
+.col {
+  float: left;
+  width: 33.3%;
+  padding: 10px;
+  margin: auto;
+}
+
+/* Clear floats after the columns */
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 1000px) {
+  .col {
+    width: 100%;
+  }
+}
+
 /* the onclick JS toggles the .reponsive class from display none (.navigation li) to display block because the responsive class is added to the end of the class list like this in HTML.
   <ul class="navigation responsive">
 */
