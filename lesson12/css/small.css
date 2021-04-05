@@ -107,7 +107,7 @@ color: white;
 font-size: large; 
 }
 
-.sec1, .sec2, footer {
+.sec1, .sec2, .sec3, .sec4, footer {
     display: flex;
    flex-flow: row wrap;
    justify-content: center;
@@ -126,6 +126,10 @@ font-size: large;
  .sec3 {
    text-align: center;
    background-color: #64b6ac;
+ }
+
+ .sec4 {
+   background-color: #daffef;
  }
  .hspec {
    color: black;
