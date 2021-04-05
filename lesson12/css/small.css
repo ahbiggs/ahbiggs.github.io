@@ -515,7 +515,27 @@ footer {
 /* Storm Center styling */ 
 
 input[type=text], select {
-    width: 100%;
+    width: 50%;
+    padding: 12px 20px;
+    margin: auto;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=email], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: auto;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=tel], select {
+    width: 50%;
     padding: 12px 20px;
     margin: auto;
     display: inline-block;
@@ -525,7 +545,7 @@ input[type=text], select {
   }
 
   input[type=submit] {
-    width: 100%;
+    width: 50%;
     background-color: #266db8;
     color: white;
     padding: 14px 20px;
@@ -541,7 +561,7 @@ input[type=text], select {
   
   .fill {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: #fcfffd;
     padding: 20px;
   }
 
