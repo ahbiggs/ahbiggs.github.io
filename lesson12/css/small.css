@@ -47,7 +47,7 @@ header {
     padding: 10px;
     margin: 0em;
     border: 0em;
-	text-align: center;
+	 text-align: center;
     color: #283845;
     margin: auto;
 }
@@ -188,7 +188,8 @@ nav {
 }
 .navigation a:hover {
 	color: black;
-	background-color: #daffef;
+  background-color: #daffef;
+  border-radius: 25px;
 }
 
 /* the onclick JS toggles the .reponsive class from display none (.navigation li) to display block because the responsive class is added to the end of the class list like this in HTML.
