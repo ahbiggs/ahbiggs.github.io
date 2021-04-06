@@ -160,6 +160,11 @@ font-size: large;
   .forecast {
       align-items: center;
   }
+
+  #icon1 {
+    width: 100px;
+    height: auto;
+  }
  
 /* Small/Phone View ***************/
 nav {
