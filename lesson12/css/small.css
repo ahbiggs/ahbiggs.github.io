@@ -161,7 +161,7 @@ font-size: large;
       align-items: center;
   }
 
-  #icon1 {
+  #icon1, #icon2 {
     width: 100px;
     height: auto;
   }
