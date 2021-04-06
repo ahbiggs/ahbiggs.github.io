@@ -164,6 +164,9 @@ font-size: large;
   #icon1, #icon2 {
     width: 100px;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
   }
  
 /* Small/Phone View ***************/
