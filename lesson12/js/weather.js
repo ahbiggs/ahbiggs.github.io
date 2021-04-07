@@ -67,15 +67,6 @@ weatherRequest2.onload = function () {
     document.getElementById('day4').innerHTML = weekday[i+4];
     document.getElementById('day5').innerHTML = weekday[i+5];
 
-    /*The problem is that sometimes the list item 0 gives temperature at an hour for today, but
-    sometimes it reflects temperature for some time tomorrow, depending on what time it is today.
-    As a result, I have set the first variable list to be tf1.  When item list 0 is giving me
-    temperature data for tomorrow, then tf1 will equal 0, if it is reflecting temperature data 
-    for today, then it will equal 8, which will be data for tomorrow.
-    This is a little complicated.  The designers of this course should reassess how to do this 
-    forecast part.  They should either ensure that the students have access to the 16-day forecast,
-    or they should give more direction on what is expected from the forecast for the every three hours 
-    for the next several days.*/
 
     var tf = d * 6;
     var tf1 = 6 + tf;
@@ -84,13 +75,9 @@ weatherRequest2.onload = function () {
     document.getElementById('img1').src = 'https://openweathermap.org/img/w/' + weatherData2.list[tf1].weather[0].icon + '.png';
     document.getElementById('img2').src = 'https://openweathermap.org/img/w/' + weatherData2.list[tf1+8].weather[0].icon + '.png';
     document.getElementById('img3').src = 'https://openweathermap.org/img/w/' + weatherData2.list[tf1+16].weather[0].icon + '.png';
-    document.getElementById('img4').src = 'https://openweathermap.org/img/w/' + weatherData2.list[tf1+24].weather[0].icon + '.png';
-    document.getElementById('img5').src = 'https://openweathermap.org/img/w/' + weatherData2.list[tf1+32].weather[0].icon + '.png';
     document.getElementById('f1').innerHTML = weatherData2.list[tf1].main.temp_max.toFixed(1) + '&degF';
     document.getElementById('f2').innerHTML = weatherData2.list[tf1+8].main.temp_max.toFixed(1) + '&degF';
     document.getElementById('f3').innerHTML = weatherData2.list[tf1+16].main.temp_max.toFixed(1) + '&degF';
-    document.getElementById('f4').innerHTML = weatherData2.list[tf1+24].main.temp_max.toFixed(1) + '&degF';
-    document.getElementById('f5').innerHTML = weatherData2.list[tf1+32].main.temp_max.toFixed(1) + '&degF';
 
 
 
