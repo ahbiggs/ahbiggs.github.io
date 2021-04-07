@@ -129,7 +129,7 @@ font-size: large;
  }
 
  .sec4 {
-   background-color: #daffef;
+   background-color: #ffd1c1;
  }
  .hspec {
    color: black;
@@ -243,6 +243,7 @@ footer {
 }
 
 /* Create three equal columns that floats next to each other */
+
 .column {
     float: left;
     width: 23.4%;
