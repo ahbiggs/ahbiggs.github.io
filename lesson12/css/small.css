@@ -34,7 +34,7 @@ body {
 footer {
     background-color: #daffef;
     display: flex;
-	flex-flow: column;
+	  flex-flow: column;
     color: black;
     text-align: center;
 } 
