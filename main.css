@@ -41,3 +41,12 @@ a:link {
     color: #deb887;
     text-decoration: underline;
   }
+
+  article {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin: 10px 20px;
+    text-align: left;
+}
+  }
