@@ -2,7 +2,6 @@
 
 main {
     width: 100%;
-    float: center;
     background-color: #FAebd7;
 }
 
@@ -13,6 +12,19 @@ header {
    text-align: right;
    color: #FAEBD7;
  }
+
+ ul {
+    list-style-type: none;
+}
+
+#post-date {
+    color: grey
+
+}
+
+h2 {
+    color: black;
+}
 
  a:link {
     color: #FAEBD7;
@@ -97,19 +109,6 @@ img {
     margin-left: auto;
     margin-right: auto;
 
-}
-
-ul {
-    list-style-type: none;
-}
-
-#post-date {
-    color: grey
-
-}
-
-h2 {
-    color: black;
 }
 
 } 
