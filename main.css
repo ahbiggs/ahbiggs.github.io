@@ -1,5 +1,18 @@
 /*mobile*/ 
 
+main {
+    width: 100%;
+    float: center;
+    background-color: #FAebd7;
+}
+
+header {
+   width: 100%;
+   background-color: #6495ED;
+   overflow-x: hidden;
+   text-align: right;
+   color: #FAEBD7;
+ }
 
 
 
