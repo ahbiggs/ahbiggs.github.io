@@ -16,6 +16,7 @@ main {
     width: 50%;
     float: right;
     background-color: #FAebd7;
+    padding-left: 250px;
 }
 
 a:link {
@@ -44,8 +45,8 @@ a:link {
   article {
     background-color: white;
     color: black;
-    /*padding: 20px;
-    margin: 10px 20px;*/ 
+    padding: 20px;
+    margin: 10px 20px; 
     text-align: left;
 }
 
