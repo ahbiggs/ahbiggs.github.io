@@ -1,7 +1,14 @@
 header {
-    width: 30%;
-    background-color: #6495ed;
-}
+    height: 100%;
+   width: 30%;
+   position: fixed;
+   z-index: 1;
+   top: 0;
+   left: 0;
+   background-color: #6495ED;
+   overflow-x: hidden;
+   padding-top: 20px;
+ }
 
 main {
     width:70%;
