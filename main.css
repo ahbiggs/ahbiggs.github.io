@@ -18,3 +18,26 @@ main {
     background-color: #FAebd7;
     border-left: 250px;
 }
+
+a:link {
+    color: #FAEBD7;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #FAEBD7;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #deb887;
+    text-decoration: underline;
+  }
