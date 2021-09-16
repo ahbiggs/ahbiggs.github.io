@@ -13,7 +13,7 @@ header {
  }
 
 main {
-    width:70%;
+    width: 50%;
     float: right;
     background-color: #FAebd7;
     border-left: 250px;
@@ -52,6 +52,6 @@ a:link {
 
 img {
     align-items: center;
-    height: 300px;
+    height: 400px;
     width: 300px;
 }
