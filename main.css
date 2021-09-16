@@ -49,3 +49,9 @@ a:link {
     margin: 10px 20px;
     text-align: left;
 }
+
+img {
+    align-items: center;
+    height: 300px;
+    width: 300px;
+}
