@@ -63,6 +63,16 @@ h2 {
     
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+
+}
+
 
 
 /* desktop */ 
@@ -102,13 +112,6 @@ main {
     margin-bottom: auto;
     box-shadow: 2px 2px grey;
     
-}
-
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
 }
 
 } 
