@@ -1,3 +1,12 @@
+/*mobile*/ 
+
+
+
+
+/* desktop */ 
+
+@media only screen and (min-width: 1024px) {
+
 header {
     height: 100%;
    width: 25%;
@@ -75,3 +84,5 @@ ul {
 h2 {
     color: black;
 }
+
+} 
