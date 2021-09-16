@@ -66,3 +66,12 @@ img {
 ul {
     list-style-type: none;
 }
+
+#post-date {
+    color: grey
+
+}
+
+h2 {
+    color: black;
+}
