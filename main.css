@@ -1,6 +1,6 @@
 header {
     height: 100%;
-   width: 30%;
+   width: 25%;
    position: fixed;
    z-index: 1;
    top: 0;
@@ -13,7 +13,7 @@ header {
  }
 
 main {
-    width: 70%;
+    width: 75%;
     float: right;
     background-color: #FAebd7;
     padding-left: 250px;
@@ -45,9 +45,11 @@ a:link {
   article {
     background-color: white;
     color: black;
-    width: 50%;
-    height: 50%;
+    width: 75%;
+    height: 75%;
     text-align: left;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
