@@ -45,8 +45,8 @@ a:link {
   article {
     background-color: white;
     color: black;
-    padding: 20px;
-    margin: 10px 20px;
+    /*padding: 20px;
+    margin: 10px 20px;*/ 
     text-align: left;
 }
 
