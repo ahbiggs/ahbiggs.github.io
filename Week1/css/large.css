@@ -1,8 +1,14 @@
-header{
+header {
     position: absolute;
     width: 300px; /* give your desired width */
     height: 200px; /*give your desired height */
     top: 0;
     left: 0;
     background-color: #6495ed;
+}
+
+main {
+    width:70%;
+    float: right;
+
 }
