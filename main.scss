@@ -5,16 +5,20 @@
 /* selected link */
 /* desktop */
 
+//colors 
+
+$maincolor: #FAebd7; 
+
 main {
 	width: 100%;
-	background-color: #FAebd7;
+	background-color: $maincolor;
 }
 header {
 	width: 100%;
 	background-color: #6495ED;
 	overflow-x: hidden;
 	text-align: right;
-	color: #FAEBD7;
+	color: $maincolor;
 }
 body {
 	font-family: Arial, Helvetica, sans-serif;
@@ -34,11 +38,11 @@ h2 {
 }
 a {
 	&:link {
-		color: #FAEBD7;
+		color: $maincolor;
 		text-decoration: none;
 	}
 	&:visited {
-		color: #FAEBD7;
+		color: $maincolor;
 		text-decoration: none;
 	}
 	&:hover {
@@ -82,12 +86,12 @@ img {
 		overflow-x: hidden;
 		padding-top: 20px;
 		text-align: right;
-		color: #FAEBD7;
+		color: $maincolor;
 	}
 	main {
 		width: 75%;
 		float: right;
-		background-color: #FAebd7;
+		background-color: $maincolor;
 		padding-left: 250px;
 	}
 	article {
