@@ -14,7 +14,7 @@ header {
   background-color: #6495ED;
   overflow-x: hidden;
   text-align: right;
-  color: #FAEBD7;
+  color: #FAebd7;
 }
 
 body {
@@ -39,11 +39,11 @@ h2 {
 }
 
 a:link {
-  color: #FAEBD7;
+  color: #FAebd7;
   text-decoration: none;
 }
 a:visited {
-  color: #FAEBD7;
+  color: #FAebd7;
   text-decoration: none;
 }
 a:hover {
@@ -89,7 +89,7 @@ img {
     overflow-x: hidden;
     padding-top: 20px;
     text-align: right;
-    color: #FAEBD7;
+    color: #FAebd7;
   }
 
   main {
