@@ -16,6 +16,14 @@ $activecolor: #deb887;
 $bodyfont: arial, helvetica, sans-serif;
 $otherfont: 'lora';
 
+//mixin 
+
+@mixin date-post {
+	color: grey;
+	font-size: 15px;
+	font-weight: bold;
+  }
+
 main {
 	width: 100%;
 	background-color: $maincolor;
@@ -41,10 +49,7 @@ h2 {
 	color: black;
 }
 #post-date {
-	color: grey;
-}
-a {
-	
+	@include date-post;
 }
 
 nav {
