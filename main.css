@@ -55,6 +55,20 @@ a:active {
   text-decoration: underline;
 }
 
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: block;
+}
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
 article {
   background-color: white;
   color: black;
