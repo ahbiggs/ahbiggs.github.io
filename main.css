@@ -38,23 +38,6 @@ h2 {
   color: grey;
 }
 
-a:link {
-  color: #FAebd7;
-  text-decoration: none;
-}
-a:visited {
-  color: #FAebd7;
-  text-decoration: none;
-}
-a:hover {
-  color: white;
-  text-decoration: underline;
-}
-a:active {
-  color: #deb887;
-  text-decoration: underline;
-}
-
 nav ul {
   margin: 0;
   padding: 0;
@@ -63,10 +46,21 @@ nav ul {
 nav li {
   display: block;
 }
-nav a {
-  display: block;
-  padding: 6px 12px;
+nav a:link {
+  color: #FAebd7;
   text-decoration: none;
+}
+nav a:visited {
+  color: #FAebd7;
+  text-decoration: none;
+}
+nav a:hover {
+  color: white;
+  text-decoration: underline;
+}
+nav a:active {
+  color: #deb887;
+  text-decoration: underline;
 }
 
 article {
